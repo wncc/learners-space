@@ -1,6 +1,6 @@
 # Learners' Space 
 
-## Technical Summer School By the Institute Technical Council, IIT Bombay
+## Technical Summer School by Institute Technical Council, IIT Bombay
 
 Greetings from the Web & Coding Club!
 
