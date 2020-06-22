@@ -8,7 +8,7 @@ WnCC proudly presents the following courses under Technical Summer School -
 
 * [Python](./python)
 * [Web Development](./webdev)
-* [Machine Learning](./ml) 
+* [Machine Learning](https://github.com/wncc/learners-space/tree/master/Machine%20Learning) 
 
 Coders Together Strong!
 ***
