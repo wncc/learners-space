@@ -22,3 +22,15 @@ We define a function called the **Cost Function** that accounts for the predicti
 * This **[article's](http://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/03/lecture-03.pdf)** sections 2 and 3 explain the concept of Linear Regression as a Statistical Model, where you can calculate certain statistical quantities to determine and improve the accuracy of your model. This is known as **Optimisation**.
 
 * This **[link](https://www.coursera.org/learn/machine-learning/lecture/Z9DKX/gradient-descent-for-multiple-variables)** here explains an optimisation technique for Machine learning models, (Linear Regression in our case), known as **Gradient Descent** to reach at the minima of the **[Cost Function](https://www.coursera.org/lecture/machine-learning/cost-function-rkTp3)** so as to arrive at the optimum parameters/weights, i.e., find a value of *Θ* (the weight vector) such that the prediction of our model is the most accurate. And this is what we mean by **Model Training**, provide training data to the model, then the model is optimized according to the training data, and the predictions become more accurate. This process is repeated every time we provide new training data to the model.
+
+
+### Segmented Regression
+
+It is also referred to as **Piecewise Regression** or **Broken Stick Regression**. Unlike standard Linear Regression, we fit separate line segments to intervals of independent variables. This is usually more accurate than the conventional Linear Regression. Also, it becomes important to understand that despite its accuracy, its computational efficiency is lesser than the latter.  
+The points where the data is split are called **Break Points**. 
+
+* To get an overview of the concepts, go through **[this](https://storybydata.com/datacated-challenge/piecewise-linear-regression/)** article.
+* To delve deeper into the mathematical aspects and get hands on experience, go through **[this](https://www.fs.fed.us/rm/pubs/rmrs_gtr189.pdf)**.
+
+To a limited extent, this kind of regression is useful to fit data that is not linear in nature.
+
