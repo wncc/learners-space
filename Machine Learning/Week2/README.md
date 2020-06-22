@@ -34,3 +34,27 @@ The points where the data is split are called **Break Points**.
 
 To a limited extent, this kind of regression is useful to fit data that is not linear in nature.
 
+## Logistic Regression
+
+Logistic regression is a classifier that uses regression to obtain the probability of the input data belonging to one of various classes. Unlike Linear Regression, where the target values are continuous real valued, the target variables here are drawn from a finite set of discrete values. Formulation of logistic regression can be made where the parameters are estimated using gradient descent.  
+
+* This **[article](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)** covers the major aspects of Logistic Regression and should give you a firm grasp on the mathematics behind this algorithm
+
+### Multinomial Logistic Regression
+
+Logistic regression can be binary or multinomial in nature. The **multinomial logistic regression** is also termed as **Softmax Regression**. Go through this **[article](https://stats.idre.ucla.edu/stata/dae/multinomiallogistic-regression/)** to go deeper into the concepts of Multinomial Logistic Regression. 
+ 
+## Exploratory Data Analysis
+
+Last week, we learned about Data Visualisation and Exploration. To get hands on experience on Data Analysis on Regression and Classification, refer to the links below - 
+* **[Regression](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python/blob/master/Module2/VisualizingDataForRegression.ipynb)**
+* **[Classification](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python/blob/master/Module2/VisualizingDataForClassification.ipynb)**
+
+## Generalised Linear Models (Optional)
+
+On a very high level, Generalised Linear Models (GLM) are a superclass of all linear models including Linear and Logistic Regression that we talked about earlier. 
+
+* Linear Regression is based on the assumption that the data assumes **Gaussian/Normal Distribution**.
+* Binary Logistic Regression is based on the assumption that data assumes **Bernoulli Distribution**.
+
+GLM's are based on Exponential Family Functions. **[Exponential Family](https://en.wikipedia.org/wiki/Exponential_family)** includes these two and a lot of other distributions of data that we talked about in week 1. So therefore GLM's serve as a generalisation of all linear models. To get a firm hold on generalised linear models, head **[here](https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab)**.
