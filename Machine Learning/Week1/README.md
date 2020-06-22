@@ -13,6 +13,7 @@ Here, we’ll learn to analyze data via various plots offered by matplotlib and 
 Refer to these links for in depth knowledge about Data Visualisation - 
 * **[Light Introduction](https://www.geeksforgeeks.org/python-introduction-matplotlib/)**
 * **[Beginner's Guide](https://www.analyticsvidhya.com/blog/2020/02/beginner-guide-matplotlib-data-visualization-exploration-python)**
+* **[Data Visualisation](https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7)**
 
 Don't worry if you don't understand everything now. We will get hands on experience on Exploratory Data Analysis in the next week after we have covered Linear and Logistic Regression.
 
