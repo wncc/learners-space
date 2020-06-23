@@ -1,6 +1,16 @@
 # Week 1
 
-Welcome to the course! This week we hone your skills on plotting graphs, analysing data, calculus, linear algebra and a few more things. To make sure that you understand things well, we have given a brief description of the topics followed by links ranging from beginner's to advanced material. It is okay if you don't understand everything in the first go. The topics covered lay the foundations of Machine Learning, so take your time to understand things well. Also, it is not so important to get into everything rigorously, you can do that as per your needs later in the course, but do read the things and get an overall notion.
+Welcome to the course! 
+This week we talk about - 
+* Data Visualisation using Matplotlib
+* Data Distribution
+* Data Preparation using Pandas
+* Numpy
+* Calculus
+* Linear Algebra  
+
+To make sure that you understand things well, we have given a brief description of the topics followed by links ranging from beginner's to advanced material. It is okay if you don't understand everything in the first go. The topics covered lay the foundations of Machine Learning, so take your time to understand things well. Also, it is not so important to get into everything rigorously, you can do that as per your needs later in the course, but do read the things and get an overall notion.
+
 ## Data Visualization using Matplotlib
 
 Before creating analytical models, a data scientist must develop an understanding of the properties and relationships in a dataset. There are two goals for data exploration and visualization - 
