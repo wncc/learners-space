@@ -2,7 +2,7 @@
 
 ## Geting Started
 
-Now that your are familiar with Git, let's start with the very basics of web development.
+Now that your are familiar with [Git](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/Git.md), let's start with the very basics of web development.
 
 The first thing that you need to learn is how to create your webpage and put content into it. HTML is what does that job for you. So checkout this [link](https://www.w3schools.com/html/html_intro.asp) to know what HTML actually is and how to use it to create your own webpage.
  
