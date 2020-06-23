@@ -45,4 +45,5 @@ Checkout this [link](https://www.cc.iitb.ac.in/page/personalwebpage) for creatin
 Make sure that you follow the tutorials above as they are going to be necessary for submitting the course assignments each week.
 
 Use the [Telegram group](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw) for discussions regarding any material covered in the course.
-Stay tuned as we will be uploading the tutorial for HTML in a few days.
+
+Stay tuned as we will be uploading the tutorial for [HTML](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/HTML.md) shortly.
