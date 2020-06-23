@@ -79,3 +79,4 @@ Calculus and Linear Algebra are an integral part of Machine Learning. Let us bru
 
 * **[Numpy and Pandas](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/)**
 * **[Ipython Notebooks and Scikit-Learn](https://www.youtube.com/watch?v=IsXXlYVBt1M&feature=youtu.be&t=5m17s)**
+* **[Jupyter Notebooks Introduction](https://realpython.com/jupyter-notebook-introduction/)**
