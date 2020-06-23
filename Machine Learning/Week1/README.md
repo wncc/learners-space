@@ -59,6 +59,10 @@ NumPy (Numerical Python) is a linear algebra library in Python. It is a very imp
 
 NumPy is very useful for performing mathematical and logical operations on Arrays. It provides an abundance of useful features for operations on n-arrays and matrices in Python.
 
+One of the main advantages of Numpy is that vectorisation using numpy arrays makes it super time efiicient. It enables parallel computation that makes it so fast and hence extremely useful.
+
+### Useful Resources
+
 * **[Quickstart](https://numpy.org/doc/stable/user/quickstart.html)**
 * **[Numpy Basics](https://medium.com/dataseries/python-basics-in-numpy-for-machine-learning-data-science-6641c8c3892f)**
 
