@@ -10,7 +10,8 @@ Before creating analytical models, a data scientist must develop an understandin
 Thus, visualization for data exploration is an essential data science skill. 
 Here, we’ll learn to analyze data via various types of plots offered by matplotlib and seaborn library.
 
-Refer to these links for in depth knowledge about Data Visualisation - 
+### Useful Resources
+
 * **[Light Introduction](https://www.geeksforgeeks.org/python-introduction-matplotlib/)**
 * **[Beginner's Guide](https://www.analyticsvidhya.com/blog/2020/02/beginner-guide-matplotlib-data-visualization-exploration-python)**
 * **[Data Visualisation](https://towardsdatascience.com/data-visualization-for-machine-learning-and-data-science-a45178970be7)**
