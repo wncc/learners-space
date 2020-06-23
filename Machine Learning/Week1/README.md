@@ -8,7 +8,7 @@ Before creating analytical models, a data scientist must develop an understandin
 * To identify features that may be useful for predicting labels in machine learning projects. Additionally, redundant, collinear features can be identified.   
 
 Thus, visualization for data exploration is an essential data science skill. 
-Here, we’ll learn to analyze data via various plots offered by matplotlib and seaborn library.
+Here, we’ll learn to analyze data via various types of plots offered by matplotlib and seaborn library.
 
 Refer to these links for in depth knowledge about Data Visualisation - 
 * **[Light Introduction](https://www.geeksforgeeks.org/python-introduction-matplotlib/)**
