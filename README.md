@@ -6,7 +6,7 @@ Greetings from the Web & Coding Club!
 
 WnCC proudly presents the following courses under Technical Summer School - 
 
-* [Python](./python)
+* [Python](./Python)
 * [Web Development](./Web%20Development)
 * [Machine Learning](https://github.com/wncc/learners-space/tree/master/Machine%20Learning) 
 
