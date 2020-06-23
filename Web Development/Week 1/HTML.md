@@ -2,7 +2,7 @@
 
 ## Geting Started
 
-Now that your are familiar with Git, let's start with the very basics of web development.
+Now that your are familiar with [Git](/Git.md), let's start with the very basics of web development.
 
 The first thing that you need to learn is how to create your webpage and put content into it. HTML is what does that job for you. So checkout this [link](https://www.w3schools.com/html/html_intro.asp) to know what HTML actually is and how to use it to create your own webpage.
  
@@ -18,15 +18,21 @@ Having understood what HTML does, follow the following links to start creating y
 Although the common text editors serve the basic purpose, it is often recommended to use advanced editors that make it easier for you to code seamlessly. The choice of code editors is entirely based on one's own preferences with each editor offering its own advantages. We'll be covering VS Code, in the links below:
  - [Download](https://code.visualstudio.com)
  - [Emmet](https://code.visualstudio.com/docs/editor/emmet)
- - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)	
+   
+   Few important emmets
+    - **!** : You can create HTML file and write your first letter '!' and press enter. You will have a HTML boiler plate ready for use.
+    - **lorem** : Dummy text is very much important in Web designing and lorem surves us exactly the same. Just write lorem and press enter and you will get some dummy words. Also if you want like 34 words, you just need to type lorem34 and it will give 3 dummy words!
+ - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)	Once you activate live server. You need not to reload your website. Just go live and everytime you save your changes in VS Code, it gets automatically updated in your web browser. 
+ 
+Some other famous code editors are [Sublime Text](http://www.sublimetext.com/) (cross-platform, shareware), [Atom](https://atom.io/) (cross-platform, free), [Notepad++](https://notepad-plus-plus.org/)(Windows, free).
 
 
 ## First HTML Code
 
 Once you have set up the code editor of your choice we can go ahead with creating you own webpage. First lets get an overview of a few ascepts for writing HTML.
+ - [HTML (Grundy, WnCC)](https://www.wncc-iitb.org/wiki/index.php/HTML)
  - [HTML Basics](https://www.w3schools.com/html/html_basic.asp)
  - [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
- - [HTML (Grundy, WnCC)](https://www.wncc-iitb.org/wiki/index.php/HTML)
  
 ## Advanced Learning
 
@@ -56,7 +62,7 @@ Task:
    - links 
    - Img/audio/video/gif
    - style tags (b, i, center, br,hr etc)
-   - form (text fields, label, button, etc...)
+   - form (text fields, label, button, etc)
    - div (must give ID/class to div)
    - semantic tags
    - isites
