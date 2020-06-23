@@ -2,7 +2,7 @@
 
 ## Geting Started
 
-Now that your are familiar with [Git](/Git.md), let's start with the very basics of web development.
+Now that your are familiar with Git, let's start with the very basics of web development.
 
 The first thing that you need to learn is how to create your webpage and put content into it. HTML is what does that job for you. So checkout this [link](https://www.w3schools.com/html/html_intro.asp) to know what HTML actually is and how to use it to create your own webpage.
  
@@ -56,7 +56,7 @@ Task:
    - Ambitions
    - Any other thing you wish to see in your webpage
    
- - Use at least 6 out of the 11 given tags:
+ - Use at least 6 out of the 10 given tags:
    - h1-h6 
    - p
    - links 
@@ -65,7 +65,6 @@ Task:
    - form (text fields, label, button, etc)
    - div (must give ID/class to div)
    - semantic tags
-   - isites
    - Before starting thitable
    - Comments
    
