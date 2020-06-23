@@ -7,11 +7,11 @@ Welcome to the course on Web Development from Learners' Space by Career Cell and
 The course has no prerequisites (except for knowing how to type and use a browser)
 
 The tentative schedule for the course is as follows:
- - **Week 1**: Git/GitHub, HTML
+ - **Week 1**: [Git/GitHub](./Week%201/Git.md), [HTML](./Week%201/HTML.md)
  - **Week 2**: CSS
  - **Week 3**: Bootstrap(Optional), Javascript
  - **Week 4**: Mid-course evaluation assignment
  - **Week 5+6**: Backend Theory, Introduction to Django, Databases, APIs in Django
  - **Week 7**: Final assignmnet
 
-Follow this course on Telegram for further discussions.
+Follow this course on [Telegram](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw) for further discussions.
