@@ -13,7 +13,9 @@ To make sure that you understand things well, we have given a brief description 
 
 ### Basic Python Tutorials 
 Before beginning with the course, you should have very little but some experience of coding in Python. This should include the different data types and data structures in python, basic syntax for different types of loops, defining functions, reading from and writing to files, etc.
-<br>Go through this Youtube playlist for basic Python Tutorials - **[Beginner Python Videos](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)**. For the purpose of this course, you only need to watch till Tutorial #15, but we strongly recommend that you go through all the tutorials, as it will help you figure things out much faster later on when you try out new stuff.  
+<br>Go through this Youtube playlist for basic Python Tutorials - **[Beginner Python Videos #1](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)**. 
+<br> You can also refer to this playlist - **[Beginner Python Videos #2](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)**.
+<br>For the purpose of this course you need to watch till Tutorial #15 (for the first link) or till Tutorial #24 (for the second link), but we strongly recommend that you go through all the tutorials, as it will help you figure things out much faster later on when you try out new stuff.  
 
 Once you are clear with elementary Python, you should have a basic idea about what are Jupyter Notebooks and how to run code in them.
 <br>Visit this link for an introduction to Jupyter Notebooks - **[Jupyter Notebooks Introduction](https://realpython.com/jupyter-notebook-introduction/)**
