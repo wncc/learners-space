@@ -81,7 +81,7 @@ Task:
    - form (text fields, label, button, etc)
    - div (must give ID/class to div)
    - semantic tags
-   - Before starting thitable
+   - table
    - Comments
    
  - Finally, host the webpage you created on GitHub/BigHome
