@@ -19,7 +19,7 @@ As you can see, having a version control system has a lot of benefits. It helps 
 ## Getting Started
 
 The first step is installing git on your system.
-Follow this [link](linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows) to get help with installing Git.
+Follow this [link](https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/) to get help with installing Git.
 
 
 ## Working with Git and GitHub
