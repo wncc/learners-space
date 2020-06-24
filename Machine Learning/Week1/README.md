@@ -11,8 +11,14 @@ This week we talk about -
 
 To make sure that you understand things well, we have given a brief description of the topics followed by links ranging from beginner's to advanced material. It is okay if you don't understand everything in the first go. The topics covered lay the foundations of Machine Learning, so take your time to understand things well. Also, it is not so important to get into everything rigorously, you can do that as per your needs later in the course, but do read the things and get an overall notion.
 
-Before we get started, you should have a basic idea about what are Jupyter Notebooks and how to write code in them. 
+### Basic Python Tutorials 
+Before beginning with the course, you should have very little but some experience of coding in Python. This should include the different data types and data structures in python, basic syntax for different types of loops, defining functions, reading from and writing to files, etc.
+<br>Go through this Youtube playlist for basic Python Tutorials - **[Beginner Python Videos](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm)**. For the purpose of this course, you only need to watch till Tutorial #15, but we strongly recommend that you go through all the tutorials, as it will help you figure things out much faster later on when you try out new stuff.  
+
+Once you are clear with elementary Python, you should have a basic idea about what are Jupyter Notebooks and how to run code in them.
 <br>Visit this link for an introduction to Jupyter Notebooks - **[Jupyter Notebooks Introduction](https://realpython.com/jupyter-notebook-introduction/)**
+
+That's it! You are now ready to get started. 
 
 ## Data Visualization using Matplotlib
 
