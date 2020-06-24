@@ -26,6 +26,7 @@ Follow this [link](https://www.linode.com/docs/development/version-control/how-t
 
 Here is an [article](https://www.wncc-iitb.org/wiki/index.php/Github-tutorial) for familiarizing yourself with some basic Git commands.
 
+Here is a [video](https://youtu.be/HVsySz-h9r4) you might find helpful
 
 ## Hosting Website with GitHub Pages
 
