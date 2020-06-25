@@ -20,6 +20,3 @@ Jupyter notebook is a web based notebook environment which is widely used for in
 All the assignments for this course are made in Jupyter notebooks and you are expected to complete them in the notebook itself. Hence, it is important for you to get aquainted with Jupyter notebooks. 
 
 Visit [this](https://realpython.com/jupyter-notebook-introduction/) link for installing and setting up a basic notebook. The link also teaches you to write and execute a basic Python code in a Notebook cell. 
-
-### Introduction to Data Types and Data Structures 
-
