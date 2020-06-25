@@ -1,4 +1,4 @@
-## Welcome to Week 1 of Learner Space's Python! 
+# Welcome to Week 1 of Learner Space's Python! 
 For the first week we will be covering some basic topics:
 * Installation and Setup 
 * Introduction to Jupyter Notebooks
@@ -12,11 +12,86 @@ We will be taking a very elementary approach for this course so that even a comp
 Let's get started! 
 
 
-### Installation and Setup 
-Visit [this](https://wiki.python.org/moin/BeginnersGuide/Download) link for a detailed guide on installing and setting up Python. 
+## Installation and Setup 
+Visit this link for a detailed guide on installing and setting up Python - [Python Installation and Setup](https://wiki.python.org/moin/BeginnersGuide/Download)
 
-### Introduction to Jupyter Notebooks
+## Introduction to Jupyter Notebooks
 Jupyter notebook is a web based notebook environment which is widely used for interactive programming, that is, code execution combined with rich markdown text and much more. The Jupyter notebook runs a local Ipython kernel on your machine and launches in your web browser. These notebooks are also called as Ipython notebooks, and have a '.ipynb' extension instead of traditional '.py' extension for Python files. 
 All the assignments for this course are made in Jupyter notebooks and you are expected to complete them in the notebook itself. Hence, it is important for you to get aquainted with Jupyter notebooks. 
 
 Visit [this](https://realpython.com/jupyter-notebook-introduction/) link for installing and setting up a basic notebook. The link also teaches you to write and execute a basic Python code in a Notebook cell. 
+=======
+Visit this link for installing and setting up a basic notebook - [Setting up Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/). The link also teaches you to write and execute a basic Python code in a Notebook cell. 
+
+## Introduction to Data Types and Data Structures in Python
+Once you have set up the environment for writing your code, we now begin with coding in Python. Let's get started. 
+
+Head over to this link - [Introduction to Python Data Types](https://www.learnpython.org/en/Welcome) and start with the topics in the 'Learn the Basics' sections one by one (till 'Basic String Operations'). These are official tutorials from the Python organisation which are well curated for beginners and contain an inbuilt Ipython shell for writing and executing your code there itself. 
+
+If you are not of the reading kind, checkout this [Youtube playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) for step-by-step tutorials on Python basics (Tutorials #1 - #11 except #6, #7, #9). But make sure that you are following alongside with the video, otherwise things won't make sense later in the course. 
+
+You can also read these concepts from GeeksForGeeks. They explain each concept in good detail along with examples. 
+
+Irrespective of where you choose to read/watch from, you should be familiar with the following topics:
+* [Strings](https://www.geeksforgeeks.org/python-strings/?ref=lbp)
+* [Lists](https://www.geeksforgeeks.org/python-list/?ref=lbp)
+* [Tuples](https://www.geeksforgeeks.org/python-tuples/?ref=lbp)
+* [Sets](https://www.geeksforgeeks.org/python-sets/?ref=lbp) 
+* [Dictionary](https://www.geeksforgeeks.org/python-dictionary/?ref=lbp)
+* [Arrays](https://www.geeksforgeeks.org/python-arrays/?ref=lbp)
+
+## Operators in Python 
+Now that you have a basic idea about different variable data types and data structures, let us now explore how you can work with multiple variables at once in order to get your desired output. This is done using Operators. 
+
+Operators in a programming language mean the same thing as operators in maths (almost), so the only thing you need to be concerned about is the syntax of working with operators. 
+
+Head over to this link - [Python Operators](https://www.geeksforgeeks.org/python-operators/?ref=lbp) for a detailed description of different operators in Python. Then check out the tabs in the navigation bar on the left and read about all the operators one by one. 
+<br>These are extremely important as some of the concepts explained here will be used to define other concepts later on, and to understand any piece of code analytically, you should know what each line of code is doing. 
+<br>You should be familiar with the following Python operators:
+* Arithmetic Operators
+* Relational Operators
+* Logical Operators
+* Bitwise Operators 
+* Assignment Operators
+* Identity Operators
+* Membership Operators
+
+## Conditions And Loops 
+Conditions and Loops are a core part of any program written in any programming language. You use loops whenever you want to perform a particular task repeatedly over many iterations, given a condition is satisfied. Conditions are also used without loops, as if-else conditions. 
+
+Checkout this link for a detailed article on Conditions and Loops - [Conditions](https://www.learnpython.org/en/Conditions) and [Loops](https://www.learnpython.org/en/Loops)
+<br> You can also refer to this link from GeeksForGeeks - [Conditions and Loops](https://www.geeksforgeeks.org/python-if-else/?ref=lbp) (Checkout all the tabs in the navigation bar on the left)
+<br> Again, if you prefer videos instead, refer to this [Youtube Playlist's](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) Tutorial #6, #7 and #9. 
+
+Make sure you have covered the following topics - 
+* For loop
+* while loop
+* break statement
+* continue statement
+* If-else condition ( normal, nested, if-elif)
+
+## Assignment - Week 1 
+Once you are done with the above topics, you can now write basic code and solve elementary problems in Python. For this week, we will be providing links to some Competitive Coding questions. Make sure to select 'PYTH 3.6' as the compiler for the code. 
+* [Reverse the Number](https://www.codechef.com/problems/FLOW007)
+* [Second Largest](https://www.codechef.com/problems/FLOW017) 
+
+If you get stuck in any of the above questions, feel free to post them in the [Telegram](https://t.me/joinchat/OEr2Tk_ieMMmwihkBQVjFw) group. Additionally, you can also search for the problems online with their name and problem code and most of the times you will easily find a solution for it. 
+
+
+Congratualtions! You have successfully completed Week 1 of Python! Keep up the enthusiasm! 
+
+Again, if you are having any difficulties with the course, please reach out to one of the moderators and we will surely help you out. 
+<br>See you in Week 2!
+
+
+
+
+
+
+
+
+
+
+
+
+

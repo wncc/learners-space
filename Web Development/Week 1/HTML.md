@@ -1,8 +1,16 @@
 # Web Dev (LS 2020) Week 1: HTML
 
+## Networking Basics
+
+This image summarizes everything about Networking Basics
+
+![Networking Basics](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/networking.png)
+
+To know more, read [How the web works?](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#Clients_and_servers)
+
 ## Geting Started
 
-Now that your are familiar with [Git](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/Git.md), let's start with the very basics of web development.
+Now that your are familiar with [Git](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/Git.md) and Networking basics, let's start with the very basics of web development.
 
 The first thing that you need to learn is how to create your webpage and put content into it. HTML is what does that job for you. So checkout this [link](https://www.w3schools.com/html/html_intro.asp) to know what HTML actually is and how to use it to create your own webpage.
  
@@ -43,6 +51,9 @@ Once you have set up the code editor of your choice we can go ahead with creatin
 If you feel confident with the content covered till now and would like to explore HTML in detail visit the links below.
  - [HTML Tutorial](https://www.w3schools.com/html/default.asp) (Navigate to the topic you would like to learn from the left sidebar)
  - [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) (Learn from the topics in HTML - Structuring the Web)
+ - [30 HTML Best Practices for Beginners](https://code.tutsplus.com/tutorials/30-html-best-practices-for-beginners--net-4957)
+ - [Adding extra functionality to pages](https://htmldog.com/guides/html/advanced/)
+ - [Advanced Markup Guide](https://www.w3.org/MarkUp/Guide/Advanced.html)
 
  
 ## Assignment 1
@@ -60,7 +71,7 @@ Task:
    - Ambitions
    - Any other thing you wish to see in your webpage
    
- - Use at least 6 out of the 10 given tags:
+ - Use at least 6 out of the 11 given tags:
    - h1-h6 
    - p
    - links 
@@ -70,13 +81,23 @@ Task:
    - form (text fields, label, button, etc)
    - div (must give ID/class to div)
    - semantic tags
-   - Before starting thitable
+   - table
    - Comments
    
  - Finally, host the webpage you created on GitHub/BigHome
- 
- ##
+
+### Our Suggestions:
+ - Since Git is also a version control System, we suggest you initially work with Github for hosting, since its very easy to update your work on Github, once your  work is done,  you can then host it on BigHome.
+ - You must give ids and classes to every elementry tag, because it will be necessary when we do the CSS and JS part.
+
+## Extra Practice (Optional)
+If you are already completed with this week's assignment, here are some websites that offer a good range of practice problems:
+ - [w3schools](https://www.w3schools.com/html/exercise.asp) (Navigate to the topic you want to practice from left sidebar)
+ - [practity](https://practity.com/481-2/) (Look for exercises based on difficulty and what you find interesting)
+ - [7 Practice Projects](https://medium.com/@avicndugu/projects-to-practice-html-css-skills-for-beginners-8b9ed67a7dd1)
+
+##
   
 If you face any problems with anything mentioned in the articles above, feel free to discuss it on the [Telegram group](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw)
 
-Stay tuned for CSS tutorials coming next week
+Stay tuned for CSS tutorials coming next week!
