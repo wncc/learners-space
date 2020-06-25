@@ -19,8 +19,6 @@ Visit this link for a detailed guide on installing and setting up Python - [Pyth
 Jupyter notebook is a web based notebook environment which is widely used for interactive programming, that is, code execution combined with rich markdown text and much more. The Jupyter notebook runs a local Ipython kernel on your machine and launches in your web browser. These notebooks are also called as Ipython notebooks, and have a '.ipynb' extension instead of traditional '.py' extension for Python files. 
 All the assignments for this course are made in Jupyter notebooks and you are expected to complete them in the notebook itself. Hence, it is important for you to get aquainted with Jupyter notebooks. 
 
-Visit [this](https://realpython.com/jupyter-notebook-introduction/) link for installing and setting up a basic notebook. The link also teaches you to write and execute a basic Python code in a Notebook cell. 
-=======
 Visit this link for installing and setting up a basic notebook - [Setting up Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/). The link also teaches you to write and execute a basic Python code in a Notebook cell. 
 
 ## Introduction to Data Types and Data Structures in Python
