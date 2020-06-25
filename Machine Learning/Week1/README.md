@@ -2,6 +2,7 @@
 
 Welcome to the course! 
 This week we talk about - 
+* Basic Python 
 * Data Visualisation using Matplotlib
 * Data Distribution
 * Data Preparation using Pandas
