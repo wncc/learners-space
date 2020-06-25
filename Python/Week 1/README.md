@@ -73,8 +73,15 @@ Once you are done with the above topics, you can now write basic code and solve 
 * [Reverse the Number](https://www.codechef.com/problems/FLOW007)
 * [Second Largest](https://www.codechef.com/problems/FLOW017) 
 
-If you get stuck in any of the above questions, feel free to post them in the [Telegram](https://t.me/joinchat/OEr2Tk_ieMMmwihkBQVjFw) group. Additionally, you can also search for the problems online with their name and problem code and most of the times you will easily find a solution for it. 
+Once you are done with the above questions, complete the Jupyter Notebooks:
+* [Module 1](./Week1-Module1.ipynb)
+* [Module 2](./Week1-Module2.ipynb)
+* [Assignment 1](./Week1-Assignment1.ipynb)
 
+To download the Jupyter Notebooks, click on 'Raw', right click and then click on 'Save As'. 
+<br> These notebooks will be used for evaluation of the course, hence you are expected to complete them within the week. 
+
+If you get stuck in any of the above questions, feel free to post them in the [Telegram](https://t.me/joinchat/OEr2Tk_ieMMmwihkBQVjFw) group. Additionally, you can also search for the problems online with their name and problem code and most of the times you will easily find a solution for it. 
 
 Congratualtions! You have successfully completed Week 1 of Python! Keep up the enthusiasm! 
 
