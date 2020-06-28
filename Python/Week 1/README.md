@@ -78,7 +78,7 @@ Once you are done with the above questions, complete the Jupyter Notebooks:
 
 * [Module 1](./Week1-Module1.ipynb)
 * [Module 2](./Week1-Module2.ipynb)
-* [Assignment 1](./Week1-Assignment1.ipynb)
+* [Assignment 1](./Week1-Assignment.ipynb)
 
 The Week 1 content is divided into 2 modules. The first one covers Data Types and Operators, while the second one covers Conditionals and Loops. These interacive notebooks introduce you to all Week - 1 concepts and syntax along with hands-on code to try yourself! Make sure to play around with the code to understand it well. Read the instructions below on how to download the notebooks.
 
