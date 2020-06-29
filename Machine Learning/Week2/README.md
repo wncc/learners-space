@@ -17,11 +17,11 @@ The input variable *(x)* is a vector of the features of our dataset, for eg. whe
                                                 
                                                 y = θ(0) + θ(1)*x
 
-where *θ(0)* is known as the **bias term**, and *θ* in general is called as the **weight vector**, there are the parameters of the linear regression model. This **[link](https://www.coursera.org/learn/machine-learning/lecture/db3jS/model-representation)** here explains in detail how we arrived at such a representation of the model. For multiple linear regression, the equation changes as - 
+where *θ(0)* is known as the **bias term**, and *θ* in general is called as the **weight vector**, there are the parameters of the linear regression model. This **[video](https://www.coursera.org/learn/machine-learning/lecture/db3jS/model-representation)** gives a detailed explanation of how we arrived at this representation. For multiple linear regression, the equation modifies to - 
 
                                                 y = transpose(Θ)*(X) 
 
-where *X* is a vector containing all the features and *Θ* is a vector containing all the corresponding weights i.e. the parameters of the linear model.  
+where *X* is a vector containing all the features and *Θ* is a vector containing all the corresponding weights (bias and weights both) i.e. the parameters of the linear model. Also note that *X* here has an additonal feature - the constant term 1 which accounts for the intercept of the linear fit.
 
 We define a function called the **Cost Function** that accounts for the prediction errors of the model. We try to minimize the cost function so that we can obtain a model that fits the data as good as possible. To reach the optima of the cost function, we employ a method that is used in almost all of machine learning called **Gradient Descent**.  
 
@@ -35,18 +35,21 @@ The relationship established between the target and the predictors is a statisti
 
 * This **[article's](http://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/03/lecture-03.pdf)** sections 2 and 3 explain the concept of Linear Regression as a Statistical Model, where you can calculate certain statistical quantities to determine and improve the accuracy of your model. This is known as **Optimisation**.
 
-* This **[link](https://www.coursera.org/learn/machine-learning/lecture/Z9DKX/gradient-descent-for-multiple-variables)** here explains an optimisation technique for Machine learning models, (Linear Regression in our case), known as **Gradient Descent** to reach at the minima of the **[Cost Function](https://www.coursera.org/lecture/machine-learning/cost-function-rkTp3)** so as to arrive at the optimum parameters/weights, i.e., find a value of *Θ* (the weight vector) such that the prediction of our model is the most accurate. And this is what we mean by **Model Training**, provide training data to the model, then the model is optimized according to the training data, and the predictions become more accurate. This process is repeated every time we provide new training data to the model.
+* This **[link](https://www.coursera.org/learn/machine-learning/lecture/Z9DKX/gradient-descent-for-multiple-variables)** here explains an optimisation technique for Machine learning models, (Linear Regression in our case), known as **Gradient Descent** to reach at the minima of the **[Cost Function](https://www.coursera.org/lecture/machine-learning/cost-function-rkTp3)** so as to arrive at the optimum parameters/weights, i.e., find a value of *Θ* (the weight vector) such that the prediction of our model is the most accurate. And this is what we mean by **Model Training**, provide training data to the model, then the model is optimized according to the training data, and the predictions become more accurate. This process is repeated every time we provide new training data to the model.  
+
+* To dive into the math behind Gradient Descent, head **[here](https://medium.com/@saishruthi.tn/math-behind-gradient-descent-4d66eb96d68d)**
 
 
 ### Segmented Regression
 
-It is also referred to as **Piecewise Regression** or **Broken Stick Regression**. Unlike standard Linear Regression, we fit separate line segments to intervals of independent variables. This is usually more accurate than the conventional Linear Regression. Also, it becomes important to understand that despite its accuracy, its computational efficiency is lesser than the latter.  
-The points where the data is split are called **Break Points**. 
+It is also referred to as **Piecewise Regression** or **Broken Stick Regression**. Unlike standard Linear Regression, we fit separate line segments to intervals of independent variables. This is pretty useful in the cases when the data assumes different linear relationships in different intervals of the feature values. Generally, applying linear regression on such tasks can incur large statistical losses.  
 
-* To get an overview of the concepts, go through **[this](https://storybydata.com/datacated-challenge/piecewise-linear-regression/)** article.
-* To delve deeper into the mathematical aspects and get hands on experience, go through **[this](https://www.fs.fed.us/rm/pubs/rmrs_gtr189.pdf)**.
+It is important to note that despite it's better accuracy, it can be computationally inefficient because many independent linear regressions have to be performed.  
+The points where the data is split into intervals are called **Break Points**. There are various statistical tests that are to be performed in order to determine the break points but the details of those tests are beyond the scope of this course.  
 
-To a limited extent, this kind of regression is useful to fit data that is not linear in nature.
+* To get an overview of the concepts, go through **[this](https://storybydata.com/datacated-challenge/piecewise-linear-regression/)** article and **[this](https://en.wikipedia.org/wiki/Segmented_regression)** page.  
+
+* (Optional) To delve deeper into the mathematical aspects and get hands on experience, go through **[this](https://www.fs.fed.us/rm/pubs/rmrs_gtr189.pdf)**. This is pretty complicated to understand and it is upto the interest of the reader.  
 
 ## Logistic Regression
 
