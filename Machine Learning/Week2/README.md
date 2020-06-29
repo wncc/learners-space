@@ -61,7 +61,7 @@ The points where the data is split into intervals are called **Break Points**. T
 
 ## Locally Weighted Regression
 
-In Locally Weighted Regression, we try to fit a line locally to the point of prediction. What it means is that we give more emphasis to the training data points that are close to the point where prediction is to be made. A weight function (generally a bell shaped function) is used to determine the amount of emphasis given to a data point for prediction. This kind of model comes under **Non Parametric Learning** unlike the the models that we have seen so far. 
+In Locally Weighted Regression, we try to fit a line locally to the point of prediction. What it means is that we give more emphasis to the training data points that are close to the point where prediction is to be made. A weight function (generally a bell shaped function) is used to determine the amount of emphasis given to a data point for prediction. This kind of model comes under **Non Parametric Learning** unlike the **Parametric Learning** models that we have seen so far. 
 
 Such models are useful when the training data is small and has small number of features. It is computationally inefficient because a linear regression is performed everytime we need to predict some value. But at the same time, this allows us to fit even complicated non-linear curves with ease.  
 
