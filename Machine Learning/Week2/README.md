@@ -1,6 +1,12 @@
 # Week 2
 
-Welcome to Week 2! Having laid the foundations of Machine Learning, this week we start exploring algorithms and concepts of Machine Learning. We discuss about the fudamentals of Machine Learning - Linear Regression and Logisitic Regression. We also talk about the importance of Data Cleaning for a Machine Learning Model. There is a good resource link to get hands on experience in Exploratory Data Analysis. This week, we also come up with an advanced topic for the interested ones - Generalised Linear Models.
+Welcome to Week 2! Having laid the foundations of Machine Learning, this week we start exploring algorithms and concepts of Machine Learning. We discuss about the fudamentals of Machine Learning - 
+
+* Linear Regression
+* Logisitic Regression
+* Importance of Data Cleaning and Pre-Processing
+* Exploratory Data Analysis 
+* Generalised Linear Models (Advanced optional content)
 
 ## Linear Regression
 
