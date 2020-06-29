@@ -49,6 +49,8 @@ The points where the data is split into intervals are called **Break Points**. T
 
 * To get an overview of the concepts, go through **[this](https://storybydata.com/datacated-challenge/piecewise-linear-regression/)** article and **[this](https://en.wikipedia.org/wiki/Segmented_regression)** page.  
 
+* Refer to the **[repo](https://github.com/srivatsan88/piecewise-regression/blob/master/piecewise_linear_regression.ipynb)** for a small demo on Piecewise Linear Regression.  
+
 * (Optional) To delve deeper into the mathematical aspects and get hands on experience, go through **[this](https://www.fs.fed.us/rm/pubs/rmrs_gtr189.pdf)**. This is pretty complicated to understand and it is upto the interest of the reader.  
 
 ## Logistic Regression
