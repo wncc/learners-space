@@ -47,7 +47,8 @@ The relationship established between the target and the predictors is a statisti
 
 It is also referred to as **Piecewise Regression** or **Broken Stick Regression**. Unlike standard Linear Regression, we fit separate line segments to intervals of independent variables. Formally stating, independent linear models are assigned to individual partitions of feature spaces. This is pretty useful in the cases when the data assumes different linear relationships in separate intervals of the feature values. Generally, applying linear regression on such tasks can incur large statistical losses.  
 
-It is important to note that despite it's better accuracy, it can be computationally inefficient because many independent linear regressions have to be performed.  
+It is important to note that despite it's better accuracy, it can be computationally inefficient because many independent linear regressions have to be performed.     
+
 The points where the data is split into intervals are called **Break Points**. There are various statistical tests that are to be performed in order to determine the break points but the details of those tests are beyond the scope of this course.  
 
 #### Useful Resources
