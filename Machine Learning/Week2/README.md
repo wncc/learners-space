@@ -10,20 +10,22 @@ Welcome to Week 2! Having laid the foundations of Machine Learning, this week we
 
 ## Linear Regression
 
-Linear Regression is one of the most fundamental models in Machine Learning. It assumes a linear relationship between the input variables *(x)* and the single output variable *(y)*. Formally stating, *(y)* can be calculated from a linear combination of the input variables *(x)*. 
+Linear Regression is one of the most fundamental models in Machine Learning. It assumes a linear relationship between target variable *(y)* and predictors (input variables) *(x)*. Formally stating, *(y)* can be estimated assuming a linear combination of the input variables *(x)*. 
 
-When we have a single variable *(x)* as the input, the model is called as **Simple Linear Regression** and when we have multiple input variables, the model is called **Multiple Linear Regression**.  
-In Machine learning, the input variable *(x)* corresponds to the features of our dataset, for eg. when we are predicting housing prices from a dataset, the features of the dataset will be Area of the house, Locality, etc. and the output variable *(y)* in this case will be the housing price. The general representation of a Simple Linear Regression Model is -
+When we have a single predictor as the input, the model is called as **Simple Linear Regression** and when we have multiple predictors, the model is called **Multiple Linear Regression**.  
+The input variable *(x)* is a vector of the features of our dataset, for eg. when we are predicting housing prices from a dataset, the features of the dataset will be Area of the house, Locality, etc. and the output variable *(y)* in this case will be the housing price. The general representation of a Simple Linear Regression Model is -
                                                 
                                                 y = θ(0) + θ(1)*x
 
-where *θ(0)* is known as the **bias term**, and *θ* in general is called as the **weight vector**. This **[link](https://www.coursera.org/learn/machine-learning/lecture/db3jS/model-representation)** here explains in detail how we arrived at such a representation of the model. For multiple linear regression, the equation changes as - 
+where *θ(0)* is known as the **bias term**, and *θ* in general is called as the **weight vector**, there are the parameters of the linear regression model. This **[link](https://www.coursera.org/learn/machine-learning/lecture/db3jS/model-representation)** here explains in detail how we arrived at such a representation of the model. For multiple linear regression, the equation changes as - 
 
                                                 y = transpose(Θ)*(X) 
 
 where *X* is a vector containing all the features and *Θ* is a vector containing all the corresponding weights i.e. the parameters of the linear model.  
 
-We define a function called the **Cost Function** that accounts for the prediction errors of the model. We try to minimize the cost function so that we can obtain a model that fits the data as good as possible. To reach the optima of the cost function, we employ a method that is used in almost all of machine learning called **Gradient Descent**.
+We define a function called the **Cost Function** that accounts for the prediction errors of the model. We try to minimize the cost function so that we can obtain a model that fits the data as good as possible. To reach the optima of the cost function, we employ a method that is used in almost all of machine learning called **Gradient Descent**.  
+
+**An important point to note is that the relationship established is statistical and not deterministic.**  
 
 * This **[article's](http://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/03/lecture-03.pdf)** sections 2 and 3 explain the concept of Linear Regression as a Statistical Model, where you can calculate certain statistical quantities to determine and improve the accuracy of your model. This is known as **Optimisation**.
 
