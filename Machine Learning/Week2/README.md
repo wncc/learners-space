@@ -25,7 +25,13 @@ where *X* is a vector containing all the features and *Θ* is a vector containin
 
 We define a function called the **Cost Function** that accounts for the prediction errors of the model. We try to minimize the cost function so that we can obtain a model that fits the data as good as possible. To reach the optima of the cost function, we employ a method that is used in almost all of machine learning called **Gradient Descent**.  
 
-**An important point to note is that the relationship established is statistical and not deterministic.**  
+---
+
+#### Note
+
+The relationship established between the target and the predictors is a statistical relation and not determinsitic. A deterministic relation is possible only when the data is actually prefectly linear.
+
+---
 
 * This **[article's](http://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/03/lecture-03.pdf)** sections 2 and 3 explain the concept of Linear Regression as a Statistical Model, where you can calculate certain statistical quantities to determine and improve the accuracy of your model. This is known as **Optimisation**.
 
