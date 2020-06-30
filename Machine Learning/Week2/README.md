@@ -104,6 +104,8 @@ Let's understand what this means. Generally we would like to classify an n dimen
 
 This may not seem very useful but what this does is it immensely reduces the training space as now we can train for each input feature independently. This allows us to feasibly set up a classifier based on Bayes rule.
 
+#### Useful Resources
+
 * This **[article](https://www.geeksforgeeks.org/naive-bayes-classifiers/)** will walk you through a solved example of applying the Naive Bayes algorithm for predictive & classification tasks. Towards the end, it also has code for implementing the Naive Bayes classifier available in```sklearn``` for the ''Iris dataset''.
 * Implementing algorithms from scratch is a good way to consolidate your understanding about various specifics of the algorithm. Here is a **[tutorial](https://chrisalbon.com/machine_learning/naive_bayes/naive_bayes_classifier_from_scratch/)** to help you implement a Naive Bayes classifier from scratch in Python by creating your very own toy dataset. Once you are familiar, you could extent this to more complex datasets.
  
