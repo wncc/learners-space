@@ -10,6 +10,8 @@ Welcome to Week 2! Having laid the foundations of Machine Learning, this week we
 * **[Generalised Linear Models](#generalised-linear-models)** (Advanced optional content)
 * **[Data Cleaning](#data-cleaning)**
 
+First we shall go into Machine Learning models for estimation of values. This is termed as regression. A good example would be using regression to obtain the least square fit line equation which we all have used in PH117 to obtain a good estimate of a linear model of the data points given. There are other models as well however linear regression is the most simple.
+
 ## Linear Regression
 
 Linear Regression is one of the most fundamental models in Machine Learning. It assumes a linear relationship between target variable *(y)* and predictors (input variables) *(x)*. Formally stating, *(y)* can be estimated assuming a linear combination of the input variables *(x)*. 
@@ -70,6 +72,8 @@ Such models are useful when the training data is small and has small number of f
 
 * Follow this article to get an [overview](https://medium.com/100-days-of-algorithms/day-97-locally-weighted-regression-c9cfaff087fb) of this model.
 
+However for classification tasks we need a different architecture. Logistic Regression allows us to use the power of linear regression for classification:
+
 ## Logistic Regression
 
 Logistic regression is a classifier that uses regression to obtain the probability of the input data belonging to one of various classes. Unlike Linear Regression, where the target values are continuous real valued, the target variables here are drawn from a finite set of discrete values. Formulation of logistic regression can be made where the parameters are estimated using gradient descent.  
@@ -90,6 +94,16 @@ The activation function used in the case of Multinomial Logistic Regression is k
 * Checkout this great **[article](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)** on Softmax basics. 
 
 Basically, the softmax function takes in a vector of real values as input, and generates a probability vector as the output. The dimension of this vector is the same as the number of classes for classification, and hence a single vector element having higher value than the rest of the vector elements helps us to classify the input vector (representative of an image, text, etc.) into a class. 
+
+### Naive Bayes Classifier
+'''Naive Bayes''' classifiers refer to a set of classification algorithms that share one underlying assumption, every pair of features being classified is independent of the other.
+
+Let's understand what this means. Generally we would like to classify an n<sup>th</sup> dimensional vector of input variables (can be discrete or continuous) into one of various classes. We can imagine this vector to represent our binary input data for instance where each element of the vector is a boolean. The Naive Bayes algorithms assume that the probability of one of those input variables (say the k<sup>th</sup> element of the vector) equaling a particular value, is independent of the value of the other input variables.
+
+This may not seem very useful but what this does is it immensely reduces the training space as now we can train for each input feature independently. This allows us to feasibly set up a classifier based on Bayes rule.
+
+* This **article(https://www.geeksforgeeks.org/naive-bayes-classifiers/)** will walk you through a solved example of applying the Naive Bayes algorithm for predictive & classification tasks. Towards the end, it also has code for implementing the Naive Bayes classifier available in```sklearn``` for the ''Iris dataset''.
+* Implementing algorithms from scratch is a good way to consolidate your understanding about various specifics of the algorithm. Here is a **tutorial(https://chrisalbon.com/machine_learning/naive_bayes/naive_bayes_classifier_from_scratch/)** to help you implement a Naive Bayes classifier from scratch in Python by creating your very own toy dataset. Once you are familiar, you could extent this to more complex datasets.
  
 ## Exploratory Data Analysis
 
@@ -129,6 +143,7 @@ The preprocessed version of the above tweet would be:
 ```
 
 * This **[article](https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c825)** explains data preprocessing.
+* This **[tutorial](https://towardsdatascience.com/twitter-sentiment-analysis-classification-using-nltk-python-fa912578614c)** uses Naive Bayes to solve the above tweet classification problem. Please go through this to acquaint yourself with the various data processing methods needed for natural language processing (Note that this tutorial uses sklearn to implement naive bayes instead of doing it from scratch. Feel free to skip the implementational details if you are facing issues with it as we will not be covering sklearn in this course)
 
 The concepts of feature aggregration, data cleaning, dimensionality reduction are important for a data scientist and it is essential to have a proper understanding of them before continuing.
 
