@@ -104,3 +104,31 @@ On a very high level, Generalised Linear Models (GLM) are a superclass of all li
 * Binary Logistic Regression is based on the assumption that data assumes **Bernoulli Distribution**.
 
 GLM's are based on Exponential Family Functions. **[Exponential Family](https://en.wikipedia.org/wiki/Exponential_family)** includes these two and a lot of other distributions of data that we talked about in week 1. So therefore GLM's serve as a generalisation of all linear models. To get a firm hold on generalised linear models, head **[here](https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab)**.
+
+Now finally let us look into one important aspect of data analysis that is important for machine learning, data cleaning.
+
+## Data Cleaning
+
+Let us consider a simple classification problem using logistic regression. Suppose you have 10 columns in your data which would make up the raw features given to you. A naive model would involve training your classifier using all these columns as features. However are all the features equally relevant? This may not be the case. As a worst case example suppose all the data entries in your training set have the same value. Then it does not make sense to consider this as a feature since any tweaking to the parameter corresponding to this feature that you do can be done by changing the bias term as well. This is a redundant input feature that you should remove. Similarly if you have a column that has very low variance it may make sense to remove this feature from your dataset as well. When we work with high dimensional data sometimes it makes sense to work with fewer dimensions. Thus it makes sense to remove the lower variance dimensions. Note that sometimes this reduction of dimension may not be as straightforward and next week we will see how to do this using PCA.
+
+* This **[article](https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/)** provides a proper introduction to data cleaning for machine learning
+* This **[article](https://www.dataquest.io/blog/machine-learning-preparing-data/)** is also useful for data cleaning.
+
+Another way we can clean and improve our data is by performing appropriate transformations on the data. Consider the task of Sentiment Classification using Logistic Regression. You are given a tweet and you have to state whether it expresses happy or sad sentiment. You could just take the tweet in and feed it into the classifier (using a particular representation, the details aren't important). But do all the words really matter? 
+
+Consider a sample tweet
+```
+#FollowFriday @France_Inte @PKuchly57 @Milipol_Paris for being top engaged members in my community this week :)
+```
+Clearly any tags in this tweet are irrelevant. Similarly symbols like '#' are also not needed. Thus we need to clean the input data to remove all this unnecesary information. Further in Natural Language Processing words like 'for', 'in' do not contribute to the sentiment and a proper classification would require us to remove this as well. All of this comes under data cleaning and preprocessing.
+
+The preprocessed version of the above tweet would be:
+```
+['followfriday', 'top', 'engag', 'member', 'commun', 'week', ':)']
+```
+
+* This **[article](https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c825)** explains data preprocessing.
+
+The concepts of feature aggregration, data cleaning, dimensionality reduction are important for a data scientist and it is essential to have a proper understanding of them before continuing.
+
+Next week we will be looking at more supervised machine learning techniques. Till then stay safe and have fun.
