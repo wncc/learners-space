@@ -8,6 +8,7 @@ Welcome to Week 2! Having laid the foundations of Machine Learning, this week we
 * **[Logistic Regression](#logistic-regression)**
 * **[Exploratory Data Analysis](#exploratory-data-analysis)**
 * **[Generalised Linear Models](#generalised-linear-models)** (Advanced optional content)
+* **[Data Cleaning](#data-cleaning)**
 
 ## Linear Regression
 
