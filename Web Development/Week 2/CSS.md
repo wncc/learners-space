@@ -41,8 +41,35 @@ The above articles are only meant to familiarize you with CSS, what we will be l
  - [Transforms](https://www.w3schools.com/css/css3_3dtransforms.asp)
  - [Shadows](https://www.w3schools.com/css/css3_shadows.asp)
  - [Navigation Bar](https://www.w3schools.com/css/css_navbar.asp)
+ - [Grid box](https://www.w3schools.com/css/css_grid.asp)
  
 Be sure to go through the articles thoroghly as they will be useful for this week's assignment
+
+## Video links
+Learning by watching is very useful, specially in CSS because you can see live what a little change in properties can enhance the looking of our web. We have some good video links for you. For long videos, there is always a timestamp in the discription of video, so we suggest you prefer using that and watch specific topic you want to see. Simmilarly for video-playlists watch video specific to topic you want to understand.
+
+ - [freeCodeCamp.org](https://www.youtube.com/watch?v=ieTHC78giGQ)
+ - [Code with Harry(Playlist)](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) (video 13-45) (very good videos but in hindi)
+ - [Envato Tuts+(playlist)](https://www.youtube.com/watch?v=yTHTo28hwTQ&list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F) (video 20-30)
+ - [Dev Ed](https://www.youtube.com/playlist?list=PLDyQo7g0_nsUjf046cCHKJ16U1SoXrElZ) (advance)
+ 
+## Flex Box and Grid
+
+#### Some History
+Everything you browse on the internet is contained in web pages. Those web pages accommodate content and that content needs a layout to fit itself in it. Nowadays, the technology has enabled us to browse the web on any screen dimension we wish for and your content should be responsive to any dimension we put forward. That’s where responsive layout design knocks the door.
+CSS has always been used to design the layout and looking of web pages but producing complicated multi-column layouts has always been fiddly and hackish, and frustrating to get working consistently and precisely across browsers as well. First, we used tables, floats, positioning and inline-block, but all of these techniques left out a lot of major functionality (vertical centering, for example).
+To solve these layout complications, CSS3 invented proper responsive layout models available natively in the browser, out of which - Flexbox, CSS Grid and Bootstrap became most popular and are widely supported across all platforms & browsers. These not only equipped us to create layouts that previously wasn’t feasible to create without involving JavaScript, but these also make code easier to understand and maintain.
+
+#### More about them
+These articles study [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and [grid](https://css-tricks.com/snippets/css/complete-guide-grid/) in detail and mentions almost all the properties and things that you can do with flexbox and grid.
+These videos can also be helpful.
+ - [Flexbox](https://www.youtube.com/watch?v=FTlczfR82mQ&feature=youtu.be)
+ - [Grid](https://www.youtube.com/watch?v=EFafSYg-PkI)
+ 
+#### Flexbox vs Grid, what to use?
+For basic designing, both flexbox and grid have great powers and you may use anything you find easy to use and according to your requirement.
+For more advance level, check out this [article](https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/)
+
 
 ## Assignment 2
 
@@ -51,8 +78,9 @@ Now it's time to apply what you have learned. You have to revamp your webpage fr
 Task:
  - You have to build a website enriched with HTML and CSS
  - You can either use your website from the previous assignment, and enhance it with CSS, or if you want, you can build a new one from scratch as well
- - The website must include __atleast 6__ out of the 11 properties covered in the ['Unlocking the potential of CSS'](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%202/CSS.md#unlocking-the-potential-of-css) section
+ - The website must include __atleast 6__ out of the 12 properties covered in the ['Unlocking the potential of CSS'](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%202/CSS.md#unlocking-the-potential-of-css) section. You are free to use any other properties as well(apart from __atleast 6__).
  - Lastly, just as you did last week, host the webpage you created on GitHub/BigHome
+ - [Link for submission](https://forms.gle/mK5XgQwg2srnDMvx9)
  
  
 ## Dive Deep (Optional)
