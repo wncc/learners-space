@@ -8,10 +8,10 @@ Welcome to Week 2! Having laid the foundations of Machine Learning, this week we
 * **[Logistic Regression](#logistic-regression)**
 * **[Naive Bayes Classifier](#naive-bayes-classifier)**
 * **[Exploratory Data Analysis](#exploratory-data-analysis)**
+* **[Data Pre-Processing](#data-pre-processing)**
 * **[Generalised Linear Models](#generalised-linear-models)** (Advanced optional content)
-* **[Data Cleaning](#data-cleaning)**
 
-First we shall go into Machine Learning models for estimation of values. This is termed as regression. A good example would be using regression to obtain the least square fit line equation which we all have used in PH117 to obtain a good estimate of a linear model of the data points given. There are other models as well however linear regression is the most simple.
+First we shall go into Machine Learning models for estimation of values. This is termed as regression. A good example would be using regression to obtain the least square fit line equation which we all have used in PH117 to obtain a good estimate of a linear model of the data points given. There are other models as well however linear regression is the simplest.  
 
 ## Linear Regression
 
@@ -82,6 +82,7 @@ Logistic regression is a classifier that uses regression to obtain the probabili
 * This **[article](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)** covers the major aspects of Logistic Regression and should give you a firm grasp on the mathematics behind this algorithm
 
 ### Binary Logistic Regression
+
 Binary logistic regression is used for classififcation into only 2 classes. Checkout **[this](https://www.statisticssolutions.com/binary-logistic-regression/)** short read on Binary Logistic Regression. 
 <br>The output of a binary logistic classifier is a probability value between 0 and 1, where 0 and 1 represent the two classes. By now you must be familiar with activation functions. The activation function used for Logistic Regression is the Sigmoid Function, which is also known as the Logistic Activation function. You can read more about it **[here](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)**. 
 
@@ -96,7 +97,7 @@ The activation function used in the case of Multinomial Logistic Regression is k
 
 Basically, the softmax function takes in a vector of real values as input, and generates a probability vector as the output. The dimension of this vector is the same as the number of classes for classification, and hence a single vector element having higher value than the rest of the vector elements helps us to classify the input vector (representative of an image, text, etc.) into a class. 
 
-### Naive Bayes Classifier
+## Naive Bayes Classifier
 Naive Bayes classifiers refer to a set of classification algorithms that share one underlying assumption, every pair of features being classified is independent of the other.
 
 Let's understand what this means. Generally we would like to classify an n dimensional vector of input variables (can be discrete or continuous) into one of various classes. We can imagine this vector to represent our binary input data for instance where each element of the vector is a boolean. The Naive Bayes algorithms assume that the probability of one of those input variables (say the kth element of the vector) equaling a particular value, is independent of the value of the other input variables.
@@ -112,18 +113,9 @@ Last week, we learned about Data Visualisation and Exploration. To get hands on 
 * **[Regression](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python/blob/master/Module2/VisualizingDataForRegression.ipynb)**
 * **[Classification](https://github.com/MicrosoftLearning/Principles-of-Machine-Learning-Python/blob/master/Module2/VisualizingDataForClassification.ipynb)**
 
-## Generalised Linear Models
-
-On a very high level, Generalised Linear Models (GLM) are a superclass of all linear models including Linear and Logistic Regression that we talked about earlier. 
-
-* Linear Regression is based on the assumption that the data assumes **Gaussian/Normal Distribution**.
-* Binary Logistic Regression is based on the assumption that data assumes **Bernoulli Distribution**.
-
-GLM's are based on Exponential Family Functions. **[Exponential Family](https://en.wikipedia.org/wiki/Exponential_family)** includes these two and a lot of other distributions of data that we talked about in week 1. So therefore GLM's serve as a generalisation of all linear models. To get a firm hold on generalised linear models, head **[here](https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab)**.
-
 Now finally let us look into one important aspect of data analysis that is important for machine learning, data cleaning.
 
-## Data Cleaning
+## Data Pre-Processing
 
 Let us consider a simple classification problem using logistic regression. Suppose you have 10 columns in your data which would make up the raw features given to you. A naive model would involve training your classifier using all these columns as features. However are all the features equally relevant? This may not be the case. As a worst case example suppose all the data entries in your training set have the same value. Then it does not make sense to consider this as a feature since any tweaking to the parameter corresponding to this feature that you do can be done by changing the bias term as well. This is a redundant input feature that you should remove. Similarly if you have a column that has very low variance it may make sense to remove this feature from your dataset as well. When we work with high dimensional data sometimes it makes sense to work with fewer dimensions. Thus it makes sense to remove the lower variance dimensions. Note that sometimes this reduction of dimension may not be as straightforward and next week we will see how to do this using PCA.
 
@@ -146,6 +138,17 @@ The preprocessed version of the above tweet would be:
 * This **[article](https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c825)** explains data preprocessing.
 * This **[tutorial](https://towardsdatascience.com/twitter-sentiment-analysis-classification-using-nltk-python-fa912578614c)** uses Naive Bayes to solve the above tweet classification problem. Please go through this to acquaint yourself with the various data processing methods needed for natural language processing (Note that this tutorial uses sklearn to implement naive bayes instead of doing it from scratch. Feel free to skip the implementational details if you are facing issues with it as we will not be covering sklearn in this course)
 
-The concepts of feature aggregration, data cleaning, dimensionality reduction are important for a data scientist and it is essential to have a proper understanding of them before continuing.
+The concepts of feature aggregration, data cleaning, dimensionality reduction are important for a data scientist and it is essential to have a proper understanding of them before continuing.  
+
+## Generalised Linear Models
+
+On a very high level, Generalised Linear Models (GLM) are a superclass of all linear models including Linear and Logistic Regression that we talked about earlier. 
+
+* Linear Regression is based on the assumption that the data assumes **Gaussian/Normal Distribution**.
+* Binary Logistic Regression is based on the assumption that data assumes **Bernoulli Distribution**.
+
+GLM's are based on Exponential Family Functions. **[Exponential Family](https://en.wikipedia.org/wiki/Exponential_family)** includes these two and a lot of other distributions of data that we talked about in week 1. So therefore GLM's serve as a generalisation of all linear models. To get a firm hold on generalised linear models, head **[here](https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab)**.
+
+---
 
 Next week we will be looking at more supervised machine learning techniques. Till then stay safe and have fun.
