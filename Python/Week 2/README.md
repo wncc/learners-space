@@ -97,9 +97,17 @@ In python, collection of predefined modules and packages is called a library. He
 
 # Learning with Hands-on code
 
+Here are some problems for you to practise:
+
+* [The Block Game](https://www.codechef.com/problems/PALL01)
+
+* [Cop and the Thief](https://www.codechef.com/problems/COPS)
+
 ### Assignment - Week 2
 
-[Assignment](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%202/Week2-Assignment.ipynb)
+[Assignment 2](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%202/Week2_Assignment.ipynb)
+
+This Assignment contains 4 Questions. With the content provided in the tutorial, we assume you will be able to solve these problems with ease. Good Luck!!
 
 <br> The Assignment 2 notebook will be used for evaluation of the course, hence you are expected to complete them within the week.
 
