@@ -105,7 +105,7 @@ Here are some problems for you to practise:
 
 ### Assignment - Week 2
 
-[Assignment 2](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%202/Week2_Assignment.ipynb)
+* [Assignment 2](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%202/Week2_Assignment.ipynb)
 
 This Assignment contains 4 Questions. With the content provided in the tutorial, we assume you will be able to solve these problems with ease. Good Luck!!
 
