@@ -96,14 +96,14 @@ The activation function used in the case of Multinomial Logistic Regression is k
 Basically, the softmax function takes in a vector of real values as input, and generates a probability vector as the output. The dimension of this vector is the same as the number of classes for classification, and hence a single vector element having higher value than the rest of the vector elements helps us to classify the input vector (representative of an image, text, etc.) into a class. 
 
 ### Naive Bayes Classifier
-'''Naive Bayes''' classifiers refer to a set of classification algorithms that share one underlying assumption, every pair of features being classified is independent of the other.
+Naive Bayes classifiers refer to a set of classification algorithms that share one underlying assumption, every pair of features being classified is independent of the other.
 
-Let's understand what this means. Generally we would like to classify an n<sup>th</sup> dimensional vector of input variables (can be discrete or continuous) into one of various classes. We can imagine this vector to represent our binary input data for instance where each element of the vector is a boolean. The Naive Bayes algorithms assume that the probability of one of those input variables (say the k<sup>th</sup> element of the vector) equaling a particular value, is independent of the value of the other input variables.
+Let's understand what this means. Generally we would like to classify an n dimensional vector of input variables (can be discrete or continuous) into one of various classes. We can imagine this vector to represent our binary input data for instance where each element of the vector is a boolean. The Naive Bayes algorithms assume that the probability of one of those input variables (say the kth element of the vector) equaling a particular value, is independent of the value of the other input variables.
 
 This may not seem very useful but what this does is it immensely reduces the training space as now we can train for each input feature independently. This allows us to feasibly set up a classifier based on Bayes rule.
 
-* This **article(https://www.geeksforgeeks.org/naive-bayes-classifiers/)** will walk you through a solved example of applying the Naive Bayes algorithm for predictive & classification tasks. Towards the end, it also has code for implementing the Naive Bayes classifier available in```sklearn``` for the ''Iris dataset''.
-* Implementing algorithms from scratch is a good way to consolidate your understanding about various specifics of the algorithm. Here is a **tutorial(https://chrisalbon.com/machine_learning/naive_bayes/naive_bayes_classifier_from_scratch/)** to help you implement a Naive Bayes classifier from scratch in Python by creating your very own toy dataset. Once you are familiar, you could extent this to more complex datasets.
+* This **[article](https://www.geeksforgeeks.org/naive-bayes-classifiers/)** will walk you through a solved example of applying the Naive Bayes algorithm for predictive & classification tasks. Towards the end, it also has code for implementing the Naive Bayes classifier available in```sklearn``` for the ''Iris dataset''.
+* Implementing algorithms from scratch is a good way to consolidate your understanding about various specifics of the algorithm. Here is a **[tutorial](https://chrisalbon.com/machine_learning/naive_bayes/naive_bayes_classifier_from_scratch/)** to help you implement a Naive Bayes classifier from scratch in Python by creating your very own toy dataset. Once you are familiar, you could extent this to more complex datasets.
  
 ## Exploratory Data Analysis
 
