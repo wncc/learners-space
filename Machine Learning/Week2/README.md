@@ -6,8 +6,12 @@ Welcome to Week 2! Having laid the foundations of Machine Learning, this week we
 * **[Segmented Regression](#segmented-regression)**
 * **[Locally Weighted Regression](#locally-weighted-regression)**
 * **[Logistic Regression](#logistic-regression)**
+* **[Naive Bayes Classifier](#naive-bayes-classifier)**
 * **[Exploratory Data Analysis](#exploratory-data-analysis)**
 * **[Generalised Linear Models](#generalised-linear-models)** (Advanced optional content)
+* **[Data Cleaning](#data-cleaning)**
+
+First we shall go into Machine Learning models for estimation of values. This is termed as regression. A good example would be using regression to obtain the least square fit line equation which we all have used in PH117 to obtain a good estimate of a linear model of the data points given. There are other models as well however linear regression is the most simple.
 
 ## Linear Regression
 
@@ -69,6 +73,8 @@ Such models are useful when the training data is small and has small number of f
 
 * Follow this article to get an [overview](https://medium.com/100-days-of-algorithms/day-97-locally-weighted-regression-c9cfaff087fb) of this model.
 
+However for classification tasks we need a different architecture. Logistic Regression allows us to use the power of linear regression for classification:
+
 ## Logistic Regression
 
 Logistic regression is a classifier that uses regression to obtain the probability of the input data belonging to one of various classes. Unlike Linear Regression, where the target values are continuous real valued, the target variables here are drawn from a finite set of discrete values. Formulation of logistic regression can be made where the parameters are estimated using gradient descent.  
@@ -89,6 +95,16 @@ The activation function used in the case of Multinomial Logistic Regression is k
 * Checkout this great **[article](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)** on Softmax basics. 
 
 Basically, the softmax function takes in a vector of real values as input, and generates a probability vector as the output. The dimension of this vector is the same as the number of classes for classification, and hence a single vector element having higher value than the rest of the vector elements helps us to classify the input vector (representative of an image, text, etc.) into a class. 
+
+### Naive Bayes Classifier
+Naive Bayes classifiers refer to a set of classification algorithms that share one underlying assumption, every pair of features being classified is independent of the other.
+
+Let's understand what this means. Generally we would like to classify an n dimensional vector of input variables (can be discrete or continuous) into one of various classes. We can imagine this vector to represent our binary input data for instance where each element of the vector is a boolean. The Naive Bayes algorithms assume that the probability of one of those input variables (say the kth element of the vector) equaling a particular value, is independent of the value of the other input variables.
+
+This may not seem very useful but what this does is it immensely reduces the training space as now we can train for each input feature independently. This allows us to feasibly set up a classifier based on Bayes rule.
+
+* This **[article](https://www.geeksforgeeks.org/naive-bayes-classifiers/)** will walk you through a solved example of applying the Naive Bayes algorithm for predictive & classification tasks. Towards the end, it also has code for implementing the Naive Bayes classifier available in```sklearn``` for the ''Iris dataset''.
+* Implementing algorithms from scratch is a good way to consolidate your understanding about various specifics of the algorithm. Here is a **[tutorial](https://chrisalbon.com/machine_learning/naive_bayes/naive_bayes_classifier_from_scratch/)** to help you implement a Naive Bayes classifier from scratch in Python by creating your very own toy dataset. Once you are familiar, you could extent this to more complex datasets.
  
 ## Exploratory Data Analysis
 
@@ -104,3 +120,32 @@ On a very high level, Generalised Linear Models (GLM) are a superclass of all li
 * Binary Logistic Regression is based on the assumption that data assumes **Bernoulli Distribution**.
 
 GLM's are based on Exponential Family Functions. **[Exponential Family](https://en.wikipedia.org/wiki/Exponential_family)** includes these two and a lot of other distributions of data that we talked about in week 1. So therefore GLM's serve as a generalisation of all linear models. To get a firm hold on generalised linear models, head **[here](https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab)**.
+
+Now finally let us look into one important aspect of data analysis that is important for machine learning, data cleaning.
+
+## Data Cleaning
+
+Let us consider a simple classification problem using logistic regression. Suppose you have 10 columns in your data which would make up the raw features given to you. A naive model would involve training your classifier using all these columns as features. However are all the features equally relevant? This may not be the case. As a worst case example suppose all the data entries in your training set have the same value. Then it does not make sense to consider this as a feature since any tweaking to the parameter corresponding to this feature that you do can be done by changing the bias term as well. This is a redundant input feature that you should remove. Similarly if you have a column that has very low variance it may make sense to remove this feature from your dataset as well. When we work with high dimensional data sometimes it makes sense to work with fewer dimensions. Thus it makes sense to remove the lower variance dimensions. Note that sometimes this reduction of dimension may not be as straightforward and next week we will see how to do this using PCA.
+
+* This **[article](https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/)** provides a proper introduction to data cleaning for machine learning
+* This **[article](https://www.dataquest.io/blog/machine-learning-preparing-data/)** is also useful for data cleaning.
+
+Another way we can clean and improve our data is by performing appropriate transformations on the data. Consider the task of Sentiment Classification using Logistic Regression. You are given a tweet and you have to state whether it expresses happy or sad sentiment. You could just take the tweet in and feed it into the classifier (using a particular representation, the details aren't important). But do all the words really matter? 
+
+Consider a sample tweet
+```
+#FollowFriday @France_Inte @PKuchly57 @Milipol_Paris for being top engaged members in my community this week :)
+```
+Clearly any tags in this tweet are irrelevant. Similarly symbols like '#' are also not needed. Thus we need to clean the input data to remove all this unnecesary information. Further in Natural Language Processing words like 'for', 'in' do not contribute to the sentiment and a proper classification would require us to remove this as well. All of this comes under data cleaning and preprocessing.
+
+The preprocessed version of the above tweet would be:
+```
+['followfriday', 'top', 'engag', 'member', 'commun', 'week', ':)']
+```
+
+* This **[article](https://towardsdatascience.com/data-preprocessing-concepts-fa946d11c825)** explains data preprocessing.
+* This **[tutorial](https://towardsdatascience.com/twitter-sentiment-analysis-classification-using-nltk-python-fa912578614c)** uses Naive Bayes to solve the above tweet classification problem. Please go through this to acquaint yourself with the various data processing methods needed for natural language processing (Note that this tutorial uses sklearn to implement naive bayes instead of doing it from scratch. Feel free to skip the implementational details if you are facing issues with it as we will not be covering sklearn in this course)
+
+The concepts of feature aggregration, data cleaning, dimensionality reduction are important for a data scientist and it is essential to have a proper understanding of them before continuing.
+
+Next week we will be looking at more supervised machine learning techniques. Till then stay safe and have fun.
