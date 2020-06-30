@@ -6,6 +6,7 @@ Welcome to Week 2! Having laid the foundations of Machine Learning, this week we
 * **[Segmented Regression](#segmented-regression)**
 * **[Locally Weighted Regression](#locally-weighted-regression)**
 * **[Logistic Regression](#logistic-regression)**
+* **[Naive Bayes Classifier](#naive-bayes-classifier)**
 * **[Exploratory Data Analysis](#exploratory-data-analysis)**
 * **[Generalised Linear Models](#generalised-linear-models)** (Advanced optional content)
 * **[Data Cleaning](#data-cleaning)**
