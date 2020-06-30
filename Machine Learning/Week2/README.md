@@ -5,7 +5,7 @@ Welcome to Week 2! Having laid the foundations of Machine Learning, this week we
 * **[Linear Regression](#linear-regression)**
 * **[Segmented Regression](#segmented-regression)**
 * **[Locally Weighted Regression](#locally-weighted-regression)**
-* **[Logisitic Regression](#logistic-regression)**
+* **[Logistic Regression](#logistic-regression)**
 * **[Exploratory Data Analysis](#exploratory-data-analysis)**
 * **[Generalised Linear Models](#generalised-linear-models)** (Advanced optional content)
 
