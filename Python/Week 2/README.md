@@ -7,7 +7,7 @@ For the second week we will be covering the following topics:
 * Scope of Variables
 * Recursion
 * Python Modules and Packages
-* Some Standard libraries of Python
+* Some Standard Libraries of Python
 * Assignment for Week 2
 
 So let's get started...
@@ -77,19 +77,19 @@ This [Notebook](https://github.com/abhipaiangle/learners-space/blob/master/Pytho
 To read more about Modules and Packages head over to [this](https://www.geeksforgeeks.org/python-modules/) and [this](https://www.learnpython.org/en/Modules_and_Packages)
 
 
-# Some Standard libraries of Python
+# Some Standard Libraries of Python
 
 In python, collection of predefined modules and packages is called a library. Here, we will learn about some of the standard library modules.
 
-* math - The math module is used to access mathematical functions in the Python. All methods of this functions are used for integer or real type objects, not for complex numbers. Refer [this](https://docs.python.org/3/library/math.html) documentation for learning different functions of math.
+* **math** - The math module is used to access mathematical functions in the Python. All methods of this functions are used for integer or real type objects, not for complex numbers. Refer [this](https://docs.python.org/3/library/math.html) documentation for learning different functions of math.
 
-* random - This module implements pseudo-random number generators for various distributions. Refer [this](https://docs.python.org/3/library/random.html) documentation of random module.
+* **random** - This module implements pseudo-random number generators for various distributions. Refer [this](https://docs.python.org/3/library/random.html) documentation of random module.
 
-* time - This module provides various time-related functions. Refer [this](https://docs.python.org/3/library/time.html) documentation of time module.
+* **time** - This module provides various time-related functions. Refer [this](https://docs.python.org/3/library/time.html) documentation of time module.
 
-* datetime - The datetime module supplies classes for manipulating dates and times. Refer [this](https://docs.python.org/3/library/datetime.html) documentation of time module.
+* **datetime** - The datetime module supplies classes for manipulating dates and times. Refer [this](https://docs.python.org/3/library/datetime.html) documentation of time module.
 
-* re - This module provides regular expression matching operations similar to those found in Perl. Refer [this](https://docs.python.org/3/library/re.html) documentation of re module.
+* **re** - This module provides regular expression matching operations similar to those found in Perl. Refer [this](https://docs.python.org/3/library/re.html) documentation of re module.
 
 <hr>
 
@@ -97,6 +97,7 @@ In python, collection of predefined modules and packages is called a library. He
 
 ### Assignment - Week 2
 
+[Assignment](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%202/Week2-Assignment.ipynb)
 
 <br> The Assignment 2 notebook will be used for evaluation of the course, hence you are expected to complete them within the week.
 
