@@ -79,9 +79,22 @@ To read more about Modules and Packages head over to [this](https://www.geeksfor
 
 # Some Standard libraries of Python
 
+In python, collection of predefined modules and packages is called a library. Here, we will learn about some of the standard library modules.
 
+* math - The math module is used to access mathematical functions in the Python. All methods of this functions are used for integer or real type objects, not for complex numbers. Refer [this](https://docs.python.org/3/library/math.html) documentation for learning different functions of math.
+
+* random - This module implements pseudo-random number generators for various distributions. Refer [this](https://docs.python.org/3/library/random.html) documentation of random module.
+
+* time - This module provides various time-related functions. Refer [this](https://docs.python.org/3/library/time.html) documentation of time module.
+
+* datetime - The datetime module supplies classes for manipulating dates and times. Refer [this](https://docs.python.org/3/library/datetime.html) documentation of time module.
+
+* re - This module provides regular expression matching operations similar to those found in Perl. Refer [this](https://docs.python.org/3/library/re.html) documentation of re module.
+
+<hr>
 
 # Learning with Hands-on code
+
 ### Assignment - Week 2
 
 
@@ -104,6 +117,8 @@ Congratualtions! You have successfully completed Week 2 of Python! Keep up the e
 
 Again, if you are having any difficulties with the course, please reach out to one of the moderators and we will surely help you out. 
 <br>See you in Week 3!
+
+<hr>
 
 
 
