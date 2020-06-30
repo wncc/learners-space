@@ -75,9 +75,20 @@ Logistic regression is a classifier that uses regression to obtain the probabili
 
 * This **[article](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)** covers the major aspects of Logistic Regression and should give you a firm grasp on the mathematics behind this algorithm
 
+### Binary Logistic Regression
+Binary logistic regression is used for classififcation into only 2 classes. Checkout **[this](https://www.statisticssolutions.com/binary-logistic-regression/)** short read on Binary Logistic Regression. 
+<br>The output of a binary logistic classifier is a probability value between 0 and 1, where 0 and 1 represent the two classes. By now you must be familiar with activation functions. The activation function used for Logistic Regression is the Sigmoid Function, which is also known as the Logistic Activation function. You can read more about it **[here](https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6)**. 
+
 ### Multinomial Logistic Regression
 
-Logistic regression can be binary or multinomial in nature. The **multinomial logistic regression** is also termed as **Softmax Regression**. Go through this **[article](https://stats.idre.ucla.edu/stata/dae/multinomiallogistic-regression/)** to go deeper into the concepts of Multinomial Logistic Regression. 
+Logistic regression can be binary or multinomial in nature. The **multinomial logistic regression** is also termed as **Softmax Regression**. 
+* Go through this **[article](https://stats.idre.ucla.edu/stata/dae/multinomiallogistic-regression/)** to go deeper into the concepts of Multinomial Logistic Regression. 
+
+The activation function used in the case of Multinomial Logistic Regression is known as the Softmax Activation Function. 
+
+* Checkout this great **[article](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)** on Softmax basics. 
+
+Basically, the softmax function takes in a vector of real values as input, and generates a probability vector as the output. The dimension of this vector is the same as the number of classes for classification, and hence a single vector element having higher value than the rest of the vector elements helps us to classify the input vector (representative of an image, text, etc.) into a class. 
  
 ## Exploratory Data Analysis
 
