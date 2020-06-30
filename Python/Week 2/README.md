@@ -55,6 +55,8 @@ This [Notebook](https://github.com/abhipaiangle/learners-space/blob/master/Pytho
 
 If you want to read more on functions, you can have a look at [this](https://www.geeksforgeeks.org/functions-in-python/) and [this](https://automatetheboringstuff.com/2e/chapter3/)
 
+If you prefer watching a video tutorial, watch this [Youtube PLaylist's](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) #12 Tutorial.
+
 ### Scope of a Variable
 
 Scope refers to the visibility of variables. In other words, which parts of your program can see or use it. Variables that are defined inside a function body have a local scope, and those defined outside have a global scope. This means that local variables can be accessed only inside the function in which they are declared, whereas global variables can be accessed throughout the program body by all functions
