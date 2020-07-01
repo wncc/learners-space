@@ -73,7 +73,7 @@ Such models are useful when the training data is small and has small number of f
 
 * Follow this article to get an [overview](https://medium.com/100-days-of-algorithms/day-97-locally-weighted-regression-c9cfaff087fb) of this model.
 
-However for classification tasks we need a different architecture. Logistic Regression allows us to use the power of linear regression for classification:
+For classification tasks we need a different architecture. In the next section, we discuss about Logistic Regression - a regression tool employed for classification. 
 
 ## Logistic Regression
 
