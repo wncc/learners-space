@@ -55,7 +55,7 @@ This [Notebook](https://github.com/abhipaiangle/learners-space/blob/master/Pytho
 
 If you want to read more on functions, you can have a look at [this](https://www.geeksforgeeks.org/functions-in-python/) and [this](https://automatetheboringstuff.com/2e/chapter3/)
 
-If you prefer watching a video tutorial, watch this [Youtube PLaylist's](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) #12 Tutorial.
+If you prefer watching a video tutorial, watch this [Youtube Playlist's](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm) #12 Tutorial.
 
 ### Scope of a Variable
 
@@ -107,7 +107,7 @@ Here are some problems for you to practise:
 
 * [Assignment 2](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%202/Week2_Assignment.ipynb)
 
-This Assignment contains 4 Questions. With the content provided in the tutorial, we assume you will be able to solve these problems with ease. Good Luck!!
+This Assignment contains 4 Questions. With the content provided in the tutorial, we assume that you will be able to solve these problems with ease. Good Luck!!
 
 <br> The Assignment 2 notebook will be used for evaluation of the course, hence you are expected to complete them within the week.
 
