@@ -106,4 +106,4 @@ If you complete the assignment before time or would like to practise on some top
 
 Use our [Telegram group](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw) to discuss any doubts regarding this tutorial or any part of the course. We recommend you to put in any doubts on the group, however small, as it will also help others facing similar problems.
 
-We have [JavaScript](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%203/JavaScript.md) tutorials coming up next week, on [Web Development](https://github.com/wncc/learners-space/tree/master/Web%20Development) in [Learners' Space](https://gymkhana.iitb.ac.in/~ugacademics/learnerspace_2020/index.php) by [WnCC](https://github.com/wncc) and Career Cell.
+We have [JavaScript](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%203/Bootstap+JavaScript.md) tutorials coming up next week, on [Web Development](https://github.com/wncc/learners-space/tree/master/Web%20Development) in [Learners' Space](https://gymkhana.iitb.ac.in/~ugacademics/learnerspace_2020/index.php) by [WnCC](https://github.com/wncc) and Career Cell.
