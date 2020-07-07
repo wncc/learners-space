@@ -27,3 +27,12 @@ Here is a video which will make you familiar with basic JavaScript and its appli
 
 
 Get Started with JavaScript [JavaScript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)(Navigate to the topics from left sidebar)
+
+
+##
+
+Use our [Telegram group](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw) to discuss any doubts regarding this tutorial or any part of the course. We recommend you to put in any doubts on the group, however small, as it will also help others facing similar problems.
+
+Stay Tuned for resources on topics like [Django]() in the coming weeks, on [Web Development](https://github.com/wncc/learners-space/tree/master/Web%20Development) in [Learners' Space](https://gymkhana.iitb.ac.in/~ugacademics/learnerspace_2020/index.php) by [WnCC](https://github.com/wncc) and Career Cell.
+
+<p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
