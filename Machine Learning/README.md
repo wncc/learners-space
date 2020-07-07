@@ -6,7 +6,7 @@ We will be covering the essential components of clasical machine learning before
 
  - **[Week 1](./Week1/README.md)**
  - **[Week 2](./Week2/README.md)**
- 
+ - **[Week 3](./Week3/README.md)**
  ***
 <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
 
