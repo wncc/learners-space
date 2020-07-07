@@ -23,3 +23,12 @@ You can check out any one of these detailed tutorials on Classes and Objects in 
 * **[Python Classes and Objects](https://www.learnpython.org/en/Classes_and_Objects)**
 * **[Python Classes and Objects Detailed](https://www.programiz.com/python-programming/class)**
 * Detailed Video Tutorials on Classes and Objects - **[Video #1](https://www.youtube.com/watch?v=v_Jp11xqCzg&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt&index=2&t=0s)** and **[Video #2](https://www.youtube.com/watch?v=jQiUOV15IRI&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt&index=2)** 
+
+### Access modifiers in Python
+In Python (and other OOP languages), we can restrict the amount of **access** to the methods and attributes of a class given to the object of the classes. This technique is particularly helpful when we are inheriting a class from another parent class (don't worry, inheritance is covered later) and when we declare an object of the child class, we want the object to access only certain attributes and methods of the parent class. There are three types of Access Modifiers in Python: **Public, Private** and **Protected.**
+
+Refer to these links for a better understanding on Access Modifiers:
+* **[Access Modifiers in Python](https://www.geeksforgeeks.org/access-modifiers-in-python-public-private-and-protected/)**
+* **[Video Tutorial on Public and Private classes in Python](https://www.youtube.com/watch?v=xY__sjI5yVU&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt&index=7&t=0s)**
+
+## Inheritance
