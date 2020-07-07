@@ -9,7 +9,7 @@ The course has no prerequisites (except for knowing how to type and use a browse
 The tentative schedule for the course is as follows:
  - **Week 1**: [Git/GitHub/BigHome](./Week%201/Git.md), [HTML](./Week%201/HTML.md)
  - **Week 2**: [CSS](./Week%202/CSS.md)
- - **Week 3**: Bootstrap(Optional), Javascript
+ - **Week 3**: [Bootstrap(Optional), Javascript](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%203/Bootstap%2BJavaScript.md)
  - **Week 4**: Mid-course evaluation assignment
  - **Week 5+6**: Backend Theory, Introduction to Django, Databases, APIs in Django
  - **Week 7**: Final assignmnet
