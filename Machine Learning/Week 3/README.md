@@ -16,7 +16,7 @@ Then the decision tree is a very simple one here, the algorithm will check if `x
 
 This **[link](https://heartbeat.fritz.ai/introduction-to-decision-tree-learning-cd604f85e236)** provides an introduction to decision trees (please read only the beginning part without going into construction).
 
-All this may seem very simple to you but one question remains. How will the algorithm CONSRUCT this tree? Clearly figuring out what questions to ask is far from simple. Note that we only ask questions related to the features given to us in the dataset and use these questions to come to a conclusion. Note that although decision trees can be used for both regression and classfication we only consider classification here. So our aim is to come up with a set of questions that will allow us to classify a dataset into labels.
+All this may seem very simple to you but one question remains. How will the algorithm construct this tree? Clearly figuring out what questions to ask is far from simple. Note that we only ask questions related to the features given to us in the dataset and use these questions to come to a conclusion. Note that although decision trees can be used for both regression and classfication we only consider classification here. So our aim is to come up with a set of questions that will allow us to classify a dataset into labels.
 
 ### Constructing Decision Trees
 
@@ -32,11 +32,9 @@ Remember thermodynamics? Yeah we all probably hated that chapter during JEE (I d
 
 This gives us an idea. Ask those questions that increase the entropy the most! Or in other words we want to increase the information gain. How do we compute this entropy? We have to use information entropy for this.
 
-This **[link](https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html)** talks in brief about information entropy and you may go over it once.
-
-This **[wikipedia section](https://en.wikipedia.org/wiki/Decision_tree_learning#Information_gain)** talks in detail about the math behind decision tree learning.
-
-This **[article](https://www.geeksforgeeks.org/decision-tree-implementation-python/)** provides the code for using information gain based decision trees using sklearn.
+* This **[link](https://www.kdnuggets.com/2020/01/decision-tree-algorithm-explained.html)** talks in brief about information entropy and you may go over it once.
+* This **[wikipedia section](https://en.wikipedia.org/wiki/Decision_tree_learning#Information_gain)** talks in detail about the math behind decision tree learning.
+* This **[article](https://www.geeksforgeeks.org/decision-tree-implementation-python/)** provides the code for using information gain based decision trees using sklearn.
 
 
 #### Gini Impurity
