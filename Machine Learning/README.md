@@ -4,9 +4,9 @@ Hello everyone, welcome to the machine learning course offered by WnCC in associ
 
 We will be covering the essential components of clasical machine learning before moving onto the basics of deep learning in this course. This course requires you to be comfortable with the basics of Python as a prerequisite. Follow the tutorials below to get started!
 
- - **[Week 1](./Week1/README.md)**
- - **[Week 2](./Week2/README.md)**
- - **[Week 3](./Week3/README.md)**
+ - **[Week 1](./Week 1/README.md)**
+ - **[Week 2](./Week 2/README.md)**
+ - **[Week 3](./Week 3/README.md)**
  ***
 <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
 
