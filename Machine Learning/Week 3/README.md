@@ -45,10 +45,16 @@ Essentially Gini Impurity is a measurement of the likelihood of an incorrect cla
 
 This **[article](https://towardsdatascience.com/decision-tree-in-machine-learning-e380942a4c96)** uses Gini Impurity for creating decision trees. Please go through this to understand the mathematical formulation of gini impurity and the code as well.
 
+That is all we want to cover in standalone Decision Trees. We will talk a bit more about them in pragmatics later on (overfitting).
 
-That is all we want to cover in Decision Trees. We will talk a bit more about them in pragmatics later on (overfitting).
+## Random Forests
 
-Let's get onto PCA.
+THe main idea behing using random forests is that maybe a single decision tree could be inaccurate. But what if we have 10 or 20 decision trees that are uncorrelated and working independently? Then our probability of getting the correct classification would skyrocket! And indeed a random forest is basically a collection of decision trees that achieves this.
+
+* This **[article](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)** covers random forests in theory.
+* This **[article](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)** provides you with a step by step implementation in Python.
+
+Now let's get onto PCA.
 
 ## Principle Component Analysis
 
