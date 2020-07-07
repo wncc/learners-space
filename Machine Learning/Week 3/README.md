@@ -82,7 +82,7 @@ Why would this work? Well because birds of a feather flock together! Assuming th
 What should `k` be though? This is a hyperparameter that you should tweak! (Hyperparamter refers to variables that you tweak in your algorithm to get the best performance).
 
 * This **[article](https://www.geeksforgeeks.org/k-nearest-neighbours/)** talks about kNNs in a simple manner.
-* For more insight refer to this **[article] (https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)**.
+* For more insight refer to this **[article](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)**.
 
 We could end here but wait. How do you really find the kth nearest neighbours? You have to loop through all examples in your training set every time you want to evaluate your machine learning algorithm. This would be incredibly SLOW!
 
