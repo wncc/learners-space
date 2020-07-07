@@ -13,12 +13,12 @@ So let's get on with it!
 Bootstrap is a powerful front-end framework for faster and easier web development. It includes HTML and CSS based design templates for creating common user interface components like forms, buttons, navigations, dropdowns, alerts, modals, tabs, accordions, carousels, tooltips, and so on.
 Bootstrap gives you ability to create flexible and responsive web layouts with much less efforts.
 
-
 Refer to this video  to get an insight on what Bootstrap is and how to get started. [Bootstrap Basics](https://www.youtube.com/watch?v=5GcQtLDGXy8) Setting Up BootStrap
 
 Here is a tutorial which guides you on how to setup and integrate Bootstrap to your HTML Page [Setting Up Bootstrap](https://websitesetup.org/bootstrap-tutorial-for-beginners/)
 
-
+You can always refer to [W3Schools: BootStrap 4 Tutorial](https://www.w3schools.com/bootstrap4/) for more.
+You can also check these videos: [freecodecamp.org](https://www.youtube.com/watch?v=RyTRgQ7k6QE) ,[Code With Harry](https://www.youtube.com/watch?v=vpAJ0s5S2t0).
 
 ## Getting Started with JavaScript
 
@@ -26,13 +26,14 @@ Here is a tutorial which guides you on how to setup and integrate Bootstrap to y
 Javascript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.
 
 Here are series of articles which will fully lead you to JS that you need to know for Web Dev purposes
- - [FUNDAMENTALS PART 1](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
- - [FUNDAMENTALS PART 2](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-2)
- - [FUNDAMENTALS PART 3](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-3)
- - [CLEAN CODE](https://www.theodinproject.com/courses/web-development-101/lessons/clean-code)
- - [FUNDAMENTALS PART 4](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4)
- - [DOM MANIPULATION](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation)
- - [FUNDAMENTALS PART 5](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5)
+ - [Fundamentals part 1](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
+ - [Fundamentals part 2](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-2)
+ - [Fundamentals part 3](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-3)
+ - [Clean code](https://www.theodinproject.com/courses/web-development-101/lessons/clean-code)
+ - [Fundamentals part 4](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4)
+ - [DOM manipulation](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation)
+ - [Fundamentals part 5](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5)
+
  
 You can also read these articles to get more insight of JS
  - [JavaScript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)(Navigate to the topics from left sidebar)
@@ -46,11 +47,10 @@ Here are some videos that can help you learn JS. Again, we suggest, for long vid
  - [freecodecamp.org](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
 
-
 ## Assignment
 No assignment!! Yes, no assignment this weak. So, enjoy this time compleating any content that you have left in previous weak. Also, if you have compleated this weak well in advance and left bootstrap, then do give a try learning bootstrap cause its important and is used in almost all places in web dev now a days.
 
-#### Optional Assignment
+### Optional Assignment
 These are some optional assignments that you can give a visit to see the variety of things that JS can do and try some of them on your own if you like!!
 
  - [Counter Project](https://romeojeremiah.github.io/Counter-Project/)
@@ -64,6 +64,7 @@ These are some optional assignments that you can give a visit to see the variety
 Do try them once or otherwise just have a look its code
 
 Be ready for __Major Assignment__ comming up next weak!
+
 
 ##
 
