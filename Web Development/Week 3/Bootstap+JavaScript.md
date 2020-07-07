@@ -28,6 +28,21 @@ Here is a video which will make you familiar with basic JavaScript and its appli
 
 Get Started with JavaScript [JavaScript First Steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps)(Navigate to the topics from left sidebar)
 
+## Assignment
+No assignment!! Yes, no assignment this weak. So, enjoy this time compleating any content that you have left in previous weak. Also, if you have compleated this weak well in advance and left bootstrap, then do give a try learning bootstrap cause its important and is used in almost all places in web dev now a days.
+
+### Optional Assignment
+These are some optional assignments that you can give a visit to see the variety of things that JS can do and try some of them on your own if you like!!
+
+ - [Counter Project](https://romeojeremiah.github.io/Counter-Project/)
+ - [Calculator](https://romeojeremiah.github.io/Calculator-JavaScript-Project/)
+ - [Animated Navigation Toggle](https://codepen.io/AJamesL/pen/MXmvZp?page=5)
+ - [To-do-list](https://codepen.io/JohnPaulFich/pen/MXmzzM)
+ - [Infinite Rainbow](https://codepen.io/nswamy14/pen/MXoZjg?page=1&)
+ - [Pick Rick Maze Game](https://codepen.io/TheCodeDepository/pen/jKBaoN?page=8)
+ - [Bouncing Balls](https://codepen.io/b4rb4tron/full/wjyXNJ)
+ 
+Do try them once if you like or otherwise just have a look its code
 
 ##
 
