@@ -30,7 +30,7 @@ We can use different types of activation functions such as sigmoid, tanh, Relu (
 - [Why do we need non-linear activation functions](https://www.youtube.com/watch?v=NkOv_k7r6no&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=31)<br/> <br/>
 Though, we generally prefer tanh over sigmoid since, both have similar properties, but tanh gives output whose mean can be centralised to 0 and has some other benefits which can be seen in [this](https://www.youtube.com/watch?v=nD5ag-Q1sms&t=405s) video.
 Both of these activation functions, share one disadvantage that the slope tends to 0 when the numbers are very large or very small, thus the process of making improvememts slows down here, the leaky Relu function serves as a benefit in this case as it's slope never collapses. However, for practical purposes even relu function works well. While using for classification, we prefer the output of the last layer to be between 0 and 1, thus we use L-1 layers with relu activation and the last year with sigmoid activation for good results in a L layer NN.<br/> <br/>
-Refer to [this](https://www.youtube.com/watch?v=G6djH3I0rG0&list=PLreVlKwe2Z0TTN9vNEsMhA2JVswctec2g) playlist to have a good idea about this.
+Refer to [this](https://www.youtube.com/watch?v=G6djH3I0rG0&list=PLreVlKwe2Z0TTN9vNEsMhA2JVswctec2g) playlist to have a good idea about activation functions and their advantages.
 
 <br/>
 By now, our model has made it's first prediction, but this was with random weights and biases, hence the results were very random, we need to train our model. Now, to begin it's training the model must know where it went wrong. thus it needs a function to compute loss.
@@ -55,5 +55,32 @@ Under Back Propagation, we use the loss calculated using loss function to make c
 - To get an intuition about what we do in Backpropagation, watch this [video](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 - To understand the calculus involved in backpropagation, watch this [video](https://www.youtube.com/watch?v=tIeHLnjs5U8&t=530s)
 
-We keep on repeating these steps for many epochs to decrease value of cost function and increase accuracy.
+We keep on repeating forward and backward propagation for many epochs to decrease value of cost function and increase accuracy.
+
+## Multi-class Classification using NN
+Rather than just to classify an object between yes/no. If we wish to classify it into more than 2 items using NN, we can do it similarly just the only difference will be that the output yhat will be a Mx1 matrix rather than 1x1 for a m class classifier.
+- refer this [video](https://www.youtube.com/watch?v=gAKQOZ5zIWg) to understand how we do it
+- refer this [article]((https://towardsdatascience.com/multi-label-image-classification-with-neural-network-keras-ddc1ab1afede) to see it's implementatin.
+- For implementation, if you prefer videos refer [this](https://www.youtube.com/watch?v=oOSXQP7C7ck)
+
+## Useful Resources
+- A read to these notes: [this](http://cs229.stanford.edu/notes/cs229-notes-deep_learning.pdf) , [this](http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/) and [this](http://cs229.stanford.edu/notes/cs229-notes-backprop.pdf) is a worth to compile your understandings
+- Refer to this[playlist](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU) to see implementation of a complete NN
+- Check this [link](https://medium.com/@shaistha24/basic-concepts-you-should-know-before-starting-with-the-neural-networks-nn-3-6db79028e56d) for an intuitive run through and answers to few questions rising inside you.
+## Additional Resources to explore
+- Refer to this [article](http://neuralnetworksanddeeplearning.com/chap3.html) to know more intuitively about various topics and learn how to improve your model.
+## Exercises
+Implementing all of this in a code and making a neural network of your own will make your understanding better. <br/>
+Use Vectorization to do so rather than using for loops. If you don't know how to do so refer to [this](https://towardsdatascience.com/vectorization-implementation-in-machine-learning-ca652920c55d) article.
+1. First, build a code for a perceptron(i.e. a single neuron and no hidden layers) and build a AND gate using it.
+2. Now, try to build a XOR gate using a perceptron and share your results with us.
+3. Implement a XOR gate again, this time you can use a single hidden layer.
+**IMPortant:** Do not use scikit learn or keras or any other libraries. Implement the codes from scratch using numpy.<br/>
+Implement seperate functions such as initialization, forward propagation, cost calculation and back propagation and then compile all of it in a class/function and test your neural net.
+
+---
+
+That's it for this week. Next week you'll learn tensorflow and pytorch which will work as very helpful tools to implement all the algorithms you would have learnt upto then. If time permits, we'll also continue more with other NN such as CNNs and RNNs. Next week's going to last of fun learning, Stay Tuned.
+
+
 
