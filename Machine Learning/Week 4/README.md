@@ -74,7 +74,7 @@ Implementing all of this in a code and making a neural network of your own will 
 Use Vectorization to do so rather than using for loops. If you don't know how to do so refer to [this](https://towardsdatascience.com/vectorization-implementation-in-machine-learning-ca652920c55d) article.
 1. First, build a code for a perceptron(i.e. a single neuron and no hidden layers) and build a AND gate using it.
 2. Now, try to build a XOR gate using a perceptron and share your results with us.
-3. Implement a XOR gate again, this time you can use a single hidden layer.
+3. Implement a XOR gate again, this time you can use a single hidden layer.<br/>
 **IMPortant:** Do not use scikit learn or keras or any other libraries. Implement the codes from scratch using numpy.<br/>
 Implement seperate functions such as initialization, forward propagation, cost calculation and back propagation and then compile all of it in a class/function and test your neural net.
 
