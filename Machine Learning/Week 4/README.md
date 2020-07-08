@@ -13,6 +13,7 @@ Well, here are two key reasons why researchers and experts tend to prefer Deep L
 Consider an image classification problem. Extracting features manually from an image needs strong knowledge of the subject as well as the domain. It is an extremely time-consuming process. Thanks to Deep Learning, we can automate the process of Feature Engineering! All you need to do is just enter raw data, and the neural nets will classify it into features with appropiate weights on it's own.
 <br/>
 This week, we'll study about feedforward neural networks <br/>
+
 ### FeedForward Neural Networks
 The feedforward neural network was the first and simplest type of artificial neural network devised. In this network, the information moves in only one direction, forward, from the input nodes, through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network. If we include loops, then it becomes **Recurrent Neural Network** which we'll learn in the upcoming week.
 
