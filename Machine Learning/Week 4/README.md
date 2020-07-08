@@ -60,7 +60,7 @@ We keep on repeating forward and backward propagation for many epochs to decreas
 ## Multi-class Classification using NN
 Rather than just to classify an object between yes/no. If we wish to classify it into more than 2 items using NN, we can do it similarly just the only difference will be that the output yhat will be a Mx1 matrix rather than 1x1 for a m class classifier.
 - refer this [video](https://www.youtube.com/watch?v=gAKQOZ5zIWg) to understand how we do it
-- refer this [article]((https://towardsdatascience.com/multi-label-image-classification-with-neural-network-keras-ddc1ab1afede) to see it's implementatin.
+- refer this [article](https://towardsdatascience.com/multi-label-image-classification-with-neural-network-keras-ddc1ab1afede) to see it's implementatin.
 - For implementation, if you prefer videos refer [this](https://www.youtube.com/watch?v=oOSXQP7C7ck)
 
 ## Useful Resources
