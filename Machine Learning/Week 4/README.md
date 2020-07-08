@@ -16,4 +16,6 @@ This week, we'll study about feedforward neural networks <br/>
 ### FeedForward Neural Networks
 The feedforward neural network was the first and simplest type of artificial neural network devised. In this network, the information moves in only one direction, forward, from the input nodes, through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network. If we include loops, then it becomes **Recurrent Neural Network** which we'll learn in the upcoming week.
 
+#### Basic Idea 
+
 
