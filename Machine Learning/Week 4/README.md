@@ -9,9 +9,11 @@ Well, here are two key reasons why researchers and experts tend to prefer Deep L
 
 * **Feature Engineering:** Feature engineering is a key step in the model building process. It is a two-step process:
    * Feature extraction: In feature extraction, we extract all the required features for our problem statement
-   * Feature selection: In feature selection, we select the important features that improve the performance of our machine learning or deep learning model.
-<br/>
-<br/>
+   * Feature selection: In feature selection, we select the important features that improve the performance of our machine learning or deep learning model.<br />
 Consider an image classification problem. Extracting features manually from an image needs strong knowledge of the subject as well as the domain. It is an extremely time-consuming process. Thanks to Deep Learning, we can automate the process of Feature Engineering! All you need to do is just enter raw data, and the neural nets will classify it into features with appropiate weights on it's own.
+<br/>
+This week, we'll study about feedforward neural networks
+### Feed-Forward Neural Networks
+The feedforward neural network was the first and simplest type of artificial neural network devised. In this network, the information moves in only one direction, forward, from the input nodes, through the hidden nodes (if any) and to the output nodes. There are no cycles or loops in the network. If we include loops, then it becomes **Recurrent Neural Network** which we'll learn in the upcoming week.
 
 
