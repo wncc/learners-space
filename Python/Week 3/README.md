@@ -40,7 +40,7 @@ Refer to these links for a better understanding on Access Modifiers:
 ## Inheritance
 Inheritance in OOP is a property that allows us to define a class that inherits all the methods and attributes from another class.
 Parent class is the class being inherited from, also called base class. Child class is the class that inherits from another class, also called derived class. So now you know what I meant earlier in Access Modifiers. 
-* Refer to this link for learning more about Inheritance in Python - **[Inheritance](https://www.wncc-iitb.org/wiki/index.php/Intermediate_Python_Programming#The_Concept_of_Inheritance)**
+* Refer to this link for learning more about Inheritance in Python - **[Inheritance](https://www.programiz.com/python-programming/inheritance)** (Also checkout further links in the same page)
 * To learn using a video, refer to this link - **[Inheritance Video](https://www.youtube.com/watch?v=H2SQrZK2nvM&list=PLzMcBGfZo4-l1MqB1zoYfqzlj_HH-ZzXt&index=4&t=0s)**
 
 When we talk about Inheritance, many other rules and details come along with it. For example try to answer the following questions:
@@ -65,7 +65,7 @@ And Polymorphism is similar to Function overloading with the basic difference be
 
 
 ## Assignment 3 
-
+Please refer to the **[Week 3 Assignment Notebook](./Week3_Assignment.ipynb)** for this week's assignment. 
 
 ### Instructions to download the assignments:
 1. Open on the respective `.ipynb` file on GitHub
@@ -78,12 +78,10 @@ And Polymorphism is similar to Function overloading with the basic difference be
 
 If you get stuck in any of the above questions, feel free to post them in the [Telegram](https://t.me/joinchat/OEr2Tk_ieMMmwihkBQVjFw) group. Additionally, you can also search for the problems online. Another aspect to becoming a good programmer is learning how to debug your code! it is very common to encounter error along the way of programming and in that case, try reading the error and understanding the reason behind it. More often than not, you may not be able to figure out yourself, the cause of the error. So, in that case, copy the error meassage and google it! You would be surprised how common such practices are and there are many forums where people may have already asked similar questions and have gotten solutions too! Stack Overflow is one such question and answer site for professional and enthusiast programmers. 
 
-For codechef questions, you can also search for the problems online with their name and problem code and most of the times you will easily find a solution for it. 
-
-Congratualtions! You have successfully completed Week 2 of Python! Keep up the enthusiasm! 
+Congratulations! You have successfully completed Week 3 of Python! Keep up the enthusiasm! 
 
 Again, if you are having any difficulties with the course, please reach out to one of the moderators and we will surely help you out. 
-<br>See you in Week 3!
+<br>See you in Week 4!
 
 
 
