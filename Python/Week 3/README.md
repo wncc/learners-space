@@ -1,12 +1,12 @@
 # Welcome to Week 3 of LS Python! 
 This week we will be mainly covering Object Oriented Programming, specifically you will be learning the following topics: 
- * Classes and Objects 
- * Constructors and Destructors in Python
- * Access Modifiers
- * Inheritance in Python
- * Encapsulation
- * Overloading
- * Polymorphism 
+ * [Classes and Objects](#classes-and-objects) 
+ * [Constructors and Destructors in Python](#constructors-and-destructors)
+ * [Access Modifiers](#access-modifiers-in-python)
+ * [Inheritance in Python](#inheritance)
+ * [Encapsulation](#encapsulation)
+ * [Overloading](#function-overloading-and-polymorphism)
+ * [Polymorphism](#function-overloading-and-polymorphism)
 
 ## Introduction to Object Oriented Programming 
 As the name suggests, Object-Oriented Programming or OOPs refers to languages that uses objects in programming. Object-oriented programming aims to implement real-world entities like inheritance, polymorphism etc in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
