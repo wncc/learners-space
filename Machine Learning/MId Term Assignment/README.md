@@ -14,7 +14,7 @@ In complete this problem, you must tackle three challenges:
 
 
 ### About the Data
-To know about the data, refer to [this](./MId Term Assignment/About the data.md) link.
+To know about the data, refer to [this](https://github.com/wncc/learners-space/blob/master/Machine%20Learning/MId%20Term%20Assignment/About%20the%20data.md) link.
 
 ### Challenge 1: Data Exploration
 
