@@ -19,7 +19,7 @@ To know about the data, refer to [this](https://github.com/wncc/learners-space/b
 ### Challenge 1: Data Exploration
 
 To complete this challenge:
-1. Download the Adventure Works data files.
+1. Download the Adventure Works data files present inside this folder.
 2. Clean the data by replacing any missing values and removing duplicate rows. In this dataset, each customer is identified by a unique customer ID. The most recent version of a duplicated record should be retained.
 3. Explore the data by calculating summary and descriptive statistics for the features in the dataset, calculating correlations between features, and creating data visualizations to determine apparent relationships in the data.
 4. Based on your analysis of the customer data after removing all duplicate customer records, answer the questions in this [form](https://forms.gle/CJ7cLSZY145yBnmh9).
