@@ -32,7 +32,7 @@ To complete this challenge:
 2. Download the test data. This data includes customer features but does not include bike purchasing or average monthly spend values.
 3. Use your model to predict on the corresponding test dataset. Don't forget to apply what you've learned throughout this course upto now.
 4. For every Customer in the dataset, submission files should contain two columns: CustomerID and Prediction1.
-The file should contain a header and have the format given below to [this]((** koi naya gmail count bna le submissions k liye? **) gmail id
+The file should contain a header and have the format given below to:
 
 > CustomerID,Prediction1 <br/>
 > 18988,1 <br/>
@@ -41,10 +41,14 @@ The file should contain a header and have the format given below to [this]((** k
 > 13749,1 <br/>
 > etc. <br/>
 
+For the submission, you will have to provide a github repo link/drive link/google colab notebook to a form we will be releasing soon.
 ## Problem 2:
 
-** Pradipta will add here by tonight **
+This will be added by tomorrow.
 
+***We have made these assignments for you to have a better learning experience, if you get stuck discuss to a moderator about it and refrain from plagiarism. All the best, it's time to get started.***
+
+### Last Date of Submission: July 19, Sunday
 
 
 
