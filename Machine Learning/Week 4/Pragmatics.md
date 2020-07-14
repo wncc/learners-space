@@ -57,3 +57,24 @@ There are several solutions for this, many of which are model - specific
 * **[The Problem of Overfitting](https://www.youtube.com/watch?v=BqzgUnrNhFM)**
 
 ## Regularisation  (To be Added Soon)
+
+Basically, this tends to reduce the magnitude of the weights/paramteres of the model in order to reduce the extent of overfitting and thus lead to better generalisations. This is called Regularisation. We look at a few techniques to regularise the network - 
+* **Lasso Regression** - Also referred to as the **L1 regularisation**. This technique involves addition of magnitude of the weights to the loss function as a penalty so that they don't become large enough and overfit the data.  
+
+* **Ridge Regression** - Also referred to as the **L2 regularisation**. Unlike the L1 method, this method adds the squared values of the weights to the loss function on a similar note.  
+
+Let us try to understand what is it helpful in reducing overfitting. One of the popular ideas behind this is that adding that term leads to reduced magnitude of weights and that leads to lower value of activations. If you see the activation functions used, the graph is pretty much linear at values close to 0 and thus model becomes simpler and it is difficult for it to fit complicated functions and hence reduces overfitting.
+
+#### Useful Resources
+
+* **[Regularisation in Machine Learning](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a#:~:text=increasing%20model%20interpretability.-,Regularization,linear%20regression%20looks%20like%20this.)**
+
+* Read the **[article](https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c)** to get into the details of L1 and L2 regularisation techniques.  
+
+#### Probabilistic Intrepretation of Regularisation (Optional)
+There is a rigorous proof for Ridge Regression but that requires a bit of knowledge about statistics. Head **[here](https://www.quora.com/What-is-the-difference-between-Bayesian-and-frequentist-statisticians)** to get an overview of the statistics involved. Now, for those of you who read about Generalised Linear Models in Week 2 know the proof of how Linear Model Relations come up. There, we used the likelihood formula for the parameters but that was on the basis of Frequentistic Statistics, but if the same is done using the Bayesian Distribution, then in addition to the Standard Loss function, a **L2** loss shows up in the loss function. This can be in some sense related to **Maximum Likelihood Estimate** vs **Maximum A Posterior**  
+
+#### Useful Resources 
+* **[Probabilistic Interpretation of Regularisation](http://bjlkeng.github.io/posts/probabilistic-interpretation-of-regularization/)**
+
+There are a lot more things in regularisation specific to neural nets. We will talk about them the next week after we have a clear understanding of neural networks.  
