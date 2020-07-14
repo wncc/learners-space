@@ -43,8 +43,9 @@ The file should contain a header and have the format given below to:
 
 For the submission, you will have to provide a github repo link/drive link/google colab notebook to a form we will be releasing soon.
 ## Problem 2:
+You are given a dataset of points in `data.json` of the form [x, y, label]. The label is either 0 or 1. You need to implement logistic regression to predict the label of a dataset similar to `data.json`. Please note that the test data is not given, this is the training data. However both the training data and the test data will follow the same distribution (so the curve you see will indeed be the decision boundary). Create a python file that takes in `data.json` as input in the same directory (if this is not followed then you will be penalised).
 
-This will be added by tomorrow.
+(Hint: The data can be fit by a four degree polynomial of the form x^4 + x^3y + x^2y^2 along with lower degree terms..)
 
 ***We have made these assignments for you to have a better learning experience, if you get stuck discuss to a moderator about it and refrain from plagiarism. All the best, it's time to get started.***
 
