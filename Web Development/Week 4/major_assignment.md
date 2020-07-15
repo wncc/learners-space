@@ -2,18 +2,18 @@
 
 We are back with Week 4 of our course on Web Development. This is an assignment week
 
-We hope that you have followed all the articles for [Git](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/Git.md) ,[HTML](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/HTML.md), [CSS](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%202/CSS.md) and [JavaScript+Bootstrap](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%203/Bootstap%2BJavaScript.md). We have compleated the front end part of our course and its time for a test!
+We hope that you have followed all the articles for [Git](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/Git.md) ,[HTML](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/HTML.md), [CSS](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%202/CSS.md) and [JavaScript+Bootstrap](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%203/Bootstap%2BJavaScript.md). We have completed the front end part of our course and its time for a test!
 
-'Practice and Learn' is one of the foremost step in learning any design course and specially in Web Design. The more webs you design, the more you get to know about them.
+'Practice and Learn' is one of the foremost step in learning any design course and specially in Web Design. The more web pages you design, the more you get to know about them.
  
 
-__Note(Important):__ Submission of this assignment is important for certificate.
-Weightage distribution of assignments 
-Week 1: 10%
-Week 2: 15%
-Major Assignment 1(Mid Course Evaluation): 35%
-Week 6: 15% 
-Major Assignment 2(End Course Evaluation): 25%
+__Note(Important):__ **Submission of this assignment is important for the certificate.** <br/>
+Weightage distribution of assignments: <br/>
+Week 1: 10%  <br/>
+Week 2: 15%  <br/>
+Major Assignment 1(Mid Course Evaluation): 35%  <br/>
+Week 6: 15%   <br/>
+Major Assignment 2(End Course Evaluation): 25%  <br/>
 
 (Students with more then 70% marks will be considered for certification)
 
@@ -35,7 +35,11 @@ This page should contain
 
 Atleast two section about 'Your Choice' must be there in the page. It can be about projects you have done(Even this LS project), your hobbies, photographs you clicked, your favorite song playlist anything... 
 
-__Your website must be responsive__ i.e. should work fine on both mobile and laptop.
+For building a Working Contact Form, refer to [Formspree.io](https://formspree.io/forms/xgenojer/integration). Create an account and then follow the steps.
+
+__Your website must be responsive__ i.e. should work fine on both mobile and laptop.<br/>
+
+
 
 
 
@@ -61,7 +65,7 @@ Note: Using built-in themes is strictly not allowed. (Because it kills creativit
 
 Deadline: Last date to submit this assignment is July 21, 11:59PM.
    
-Be ready for __Backend Tutorial__ coming up next week! 
+
 
 ## Some Reference Links
 - [Responsive Navigation Bar Tutorial | HTML CSS JAVASCRIPT](https://www.youtube.com/watch?v=gXkqy0b4M5g)
@@ -75,6 +79,6 @@ Discuss your doubts, however trivial, on the [Telegram group](https://t.me/joinc
 
 Keep checking our [Announcements Channel](https://t.me/joinchat/AAAAAEM1ff5yT_ipGJ1pNw) on Telegram for updates on the course.
 
-We have tutorials on Backend Development with [Django]() coming up in the week after the next, on [Web Development](https://github.com/wncc/learners-space/tree/master/Web%20Development) from [Learners' Space](https://gymkhana.iitb.ac.in/~ugacademics/learnerspace_2020/index.php) by [WnCC](https://github.com/wncc) and Career Cell.
+We have tutorials on Backend Development with [Django]() coming up next week, on [Web Development](https://github.com/wncc/learners-space/tree/master/Web%20Development) from [Learners' Space](https://gymkhana.iitb.ac.in/~ugacademics/learnerspace_2020/index.php) by [WnCC](https://github.com/wncc) and Career Cell.
 
 <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
