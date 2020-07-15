@@ -43,7 +43,15 @@ The file should contain a header and have the format given below to:
 
 For the submission, you will have to provide a github repo link/drive link/google colab notebook to a form we will be releasing soon.
 ## Problem 2:
-You are given a dataset of points in `data.json` of the form [x, y, label]. The label is either 0 or 1. You need to implement logistic regression to predict the label of a dataset similar to `data.json`. Please note that the test data is not given, this is the training data. However both the training data and the test data will follow the same distribution (so the curve you see will indeed be the decision boundary). Create a python file that takes in `data.json` as input in the same directory (if this is not followed then you will be penalised).
+You are given a dataset of points in `data.json` of the form [x, y, label]. The label is either 0 or 1. You need to implement logistic regression to predict the label of a dataset similar to `data.json`. Please note that the test data is not given, this is the training data. However both the training data and the test data will follow the same distribution (so the curve you see will indeed be the decision boundary). 
+
+You should submit two python files: `train.py` and `test.py`. `train.py` reads in `data.json` and outputs the parameters that will be used in your logistic regression model along with the training accuracy.
+
+`test.py` reads a file called `input.json` (this is not given, this is the test data) which is similar to `data.json` but does not have the label, hence the file is an array with elements of the form `[x, y]`. You need to use the parameters you obtained in the previous `train.py` and use these parameters to output another file called `result.json` which will take all the points `[x, y]` from `input.json` and output the corresponding label as well (so that outputs are of the form `[x, y, label]`)
+
+Weightage:
+80%: `train.py`: Penalty for using libraries other than numpy and python standard library
+20%: `test.py`: Penalty for using parameters other than that obtained in `train.py`
 
 (Hint: The data can be fit by a four degree polynomial of the form x^4 + x^3y + x^2y^2 along with lower degree terms..)
 
