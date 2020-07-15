@@ -98,8 +98,6 @@ Coming soon...
 
 If you get stuck in any of the above questions, feel free to post them in the [Telegram](https://t.me/joinchat/OEr2Tk_ieMMmwihkBQVjFw) group. Additionally, you can also search for the problems online. Another aspect to becoming a good programmer is learning how to debug your code! it is very common to encounter error along the way of programming and in that case, try reading the error and understanding the reason behind it. More often than not, you may not be able to figure out yourself, the cause of the error. So, in that case, copy the error meassage and google it! You would be surprised how common such practices are and there are many forums where people may have already asked similar questions and have gotten solutions too! Stack Overflow is one such question and answer site for professional and enthusiast programmers. 
 
-For codechef questions, you can also search for the problems online with their name and problem code and most of the times you will easily find a solution for it. 
-
 Congratualtions! You have successfully completed Week 4 of Python! Keep up the enthusiasm! 
 
 Again, if you are having any difficulties with the course, please reach out to one of the moderators and we will surely help you out. 
