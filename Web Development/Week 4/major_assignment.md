@@ -1,4 +1,4 @@
-# Web Dev (LS 2020) Week 3: Major Assignment 1
+# Web Dev (LS 2020) Week 4: Major Assignment 1
 
 We are back with Week 4 of our course on Web Development. This is an assignment week
 
@@ -22,7 +22,7 @@ So let's get started!
 ## About Assignment 
 You have to make a personal landing page for yourself.
 This page should contain 
-- NavBar(4 links- AboutMe+Contact Form+any two of your choice)
+- NavBar(minimum 4 links- AboutMe + Your Choices + Contact Form)
 - Home
 - About Me
   - (Your Choice)
