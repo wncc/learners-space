@@ -66,7 +66,9 @@ Here is a problem for you to practise:
 
 * Rock Paper Scissor - Make the game Rock Paper Scissor using python. Set up virtual environment in the directory that you use and install random library using pip. You can take help from this solution in case you are not able to solve it yourself. [Solution](https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/)
 
-       Input - Rock/ Paper/ Scissor (any 1)
+       Input - "Rock"/ "Paper"/ "Scissor" (any 1)
+       
+       Raise an Error/Exception if the string entered does not match any of the above three.
 
        Output - First line contains computer's choice from Rock, Paper and Scissor based on random selection. Second line contains "You Win" / "Tie" / "You Lose" based on the conditions of the game.
 
