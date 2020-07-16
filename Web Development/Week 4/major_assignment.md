@@ -35,7 +35,8 @@ This page should contain
 
 Atleast two section about 'Your Choice' must be there in the page. It can be about projects you have done(Even this LS project), your hobbies, photographs you clicked, your favorite song playlist anything... 
 
-For building a Working Contact Form, refer to [Formspree.io](https://formspree.io/forms/xgenojer/integration). Create an account and then follow the steps.
+For building a Working Contact Form, refer to [Formspree.io](https://formspree.io/forms/xgenojer/integration). Create an account and then follow the steps.<br/>
+**Making a working contact form is mandatory**, as that will be the primary medium through which reviews will be sent.)
 
 __Your website must be responsive__ i.e. should work fine on both mobile and laptop.<br/>
 
