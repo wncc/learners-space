@@ -63,7 +63,7 @@ Note: Using built-in themes is strictly not allowed. (Because it kills creativit
 
 [Link for Submission](https://docs.google.com/forms/d/e/1FAIpQLSe36Sgbytk6zJvTy8QlwJ88O1xBLh2jC-rljrmTApSsgqcwgg/viewform?usp=sf_link)
 
-Deadline: Last date to submit this assignment is July 21, 11:59PM.
+Deadline: Last date to submit this assignment is July 22, 11:59PM.
    
 
 
