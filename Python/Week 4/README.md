@@ -110,7 +110,8 @@ Refrain from using Notebooks for this assignment. For basic plotting skills with
 * 8 random entries swap with another set of 8 random entries.
 
 * ![Visual representation](https://www.researchgate.net/profile/Igor_Florinsky/publication/220650043/figure/fig5/AS:669074258395143@1536531142223/The-565-window-1-25-are-numbers-of-the-window-nodes-w-is-grid-size-metres.png)
-If 13 is the selected entry, 7,8,9,12,14,17,18,19 are 1st neighbours and 1,2,3,4,5,6,10,11,15,16,20,21,22,23,24,25 are 2nd neighbours.
+
+* If 13 is the selected entry, 7,8,9,12,14,17,18,19 are 1st neighbours and 1,2,3,4,5,6,10,11,15,16,20,21,22,23,24,25 are 2nd neighbours.
 
 * 1st neighbours of an entry containing 1 each have a 0.25 probability of getting converted to 1.
 
