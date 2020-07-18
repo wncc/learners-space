@@ -1,21 +1,22 @@
-# Web Dev (LS 2020) Week 3: BOOTSTRAP+ JAVASCRIPT
+# Web Dev (LS 2020) Week 3: BOOTSTRAP + JAVASCRIPT
 
-Welcome back to Week 3 of our course on Web Development.
-This week we will proceed further on our journey to becoming Web Developers, with focus on learning the core aspects and features of BootStrap and JavaScript.
+We are back with Week 3 of our course on Web Development.
+This week we will go through adding a bit of responsiveness to webpages utilizing the functions and features of JavaScript.
+We also have an optional tutorial for Bootstrap, which will help you design the layout and style of webpages in an effective and efficient manner.
 
-We expect you to have gone through the articles for [Git](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/Git.md) ,[HTML](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/HTML.md) and [CSS](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%202/CSS.md), as we will be building up on it, adding to your Web Development skills.
+We hope that you have followed all the articles for [Git](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/Git.md) ,[HTML](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%201/HTML.md) and [CSS](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%202/CSS.md), as a basic knowledge of those is a prerequisite for this week's content.
 
-Note: Bootstrap is Optional and you might skip it as well.
+Note: Bootstrap is Optional and you may skip, if you are stuggling with time for other courses. We do recommend that you do it, as it will be helpful further on.
 
-So let's get on with it!
+So let's get started!
 
 ## What is Bootstrap? 
 Bootstrap is a powerful front-end framework for faster and easier web development. It includes HTML and CSS based design templates for creating common user interface components like forms, buttons, navigations, dropdowns, alerts, modals, tabs, accordions, carousels, tooltips, and so on.
 Bootstrap gives you ability to create flexible and responsive web layouts with much less efforts.
 
-Refer to this video  to get an insight on what Bootstrap is and how to get started. [Bootstrap Basics](https://www.youtube.com/watch?v=5GcQtLDGXy8) Setting Up BootStrap
+Refer to this video to get an insight on what Bootstrap is and how to get started: [Bootstrap Basics](https://www.youtube.com/watch?v=5GcQtLDGXy8) Setting Up BootStrap
 
-Here is a tutorial which guides you on how to setup and integrate Bootstrap to your HTML Page [Setting Up Bootstrap](https://websitesetup.org/bootstrap-tutorial-for-beginners/)
+Here is a tutorial which guides you on how to setup and integrate Bootstrap to your HTML Page: [Setting Up Bootstrap](https://websitesetup.org/bootstrap-tutorial-for-beginners/)
 
 You can always refer to [W3Schools: BootStrap 4 Tutorial](https://www.w3schools.com/bootstrap4/) for more.
 You can also check these videos: [freecodecamp.org](https://www.youtube.com/watch?v=RyTRgQ7k6QE) ,[Code With Harry](https://www.youtube.com/watch?v=vpAJ0s5S2t0).
@@ -48,10 +49,11 @@ Here are some videos that can help you learn JS. Again, we suggest, for long vid
 
 
 ## Assignment
-No assignment!! Yes, no assignment this weak. So, enjoy this time compleating any content that you have left in previous weak. Also, if you have compleated this weak well in advance and left bootstrap, then do give a try learning bootstrap cause its important and is used in almost all places in web dev now a days.
+No assignment!! Yes indeed, no assignment this week. We took into account that some of you are busy with other courses, so we have decided to have no assignment for the week. Next week we'll have a major assignment, so don't take this week's topics lightly!
+If you have no other commitments, we advise you to utilize this time for completing any content that you have left in previous week. Also, if you have completed this week well in advance and left bootstrap, then do give a try learning bootstrap as it is quite important and is used in almost all places in Web Development nowadays.
 
 ### Optional Assignment
-These are some optional assignments that you can give a visit to see the variety of things that JS can do and try some of them on your own if you like!!
+These are some optional assignments that you can glance through to see the variety of things that JS can do and try some of them on your own if you like!!
 
  - [Counter Project](https://romeojeremiah.github.io/Counter-Project/)
  - [Calculator](https://romeojeremiah.github.io/Calculator-JavaScript-Project/)
@@ -61,15 +63,17 @@ These are some optional assignments that you can give a visit to see the variety
  - [Pick Rick Maze Game](https://codepen.io/TheCodeDepository/pen/jKBaoN?page=8)
  - [Bouncing Balls](https://codepen.io/b4rb4tron/full/wjyXNJ)
  
-Do try them once or otherwise just have a look its code
+Do try them once or just have a look at the code
 
-Be ready for __Major Assignment__ comming up next weak!
+Be ready for __Major Assignment__ coming up next week! It will put all your skills to test that you have learnt in the three weeks.
 
 
 ##
 
-Use our [Telegram group](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw) to discuss any doubts regarding this tutorial or any part of the course. We recommend you to put in any doubts on the group, however small, as it will also help others facing similar problems.
+Discuss your doubts, however trivial, on the [Telegram group](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw).
 
-Stay Tuned for resources on topics like [Django]() in the coming weeks, on [Web Development](https://github.com/wncc/learners-space/tree/master/Web%20Development) in [Learners' Space](https://gymkhana.iitb.ac.in/~ugacademics/learnerspace_2020/index.php) by [WnCC](https://github.com/wncc) and Career Cell.
+Keep checking our [Announcements Channel](https://t.me/joinchat/AAAAAEM1ff5yT_ipGJ1pNw) on Telegram for updates on the course.
+
+We have tutorials on Backend Development with [Django]() coming up in the week after the next, on [Web Development](https://github.com/wncc/learners-space/tree/master/Web%20Development) from [Learners' Space](https://gymkhana.iitb.ac.in/~ugacademics/learnerspace_2020/index.php) by [WnCC](https://github.com/wncc) and Career Cell.
 
 <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
