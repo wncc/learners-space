@@ -9,9 +9,15 @@ The course has no prerequisites (except for knowing how to type and use a browse
 The tentative schedule for the course is as follows:
  - **Week 1**: [Git/GitHub/BigHome](./Week%201/Git.md), [HTML](./Week%201/HTML.md)
  - **Week 2**: [CSS](./Week%202/CSS.md)
- - **Week 3**: [Bootstrap(Optional), Javascript](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%203/Bootstap%2BJavaScript.md)
- - **Week 4**: [Mid-course evaluation(Major assignment)](https://github.com/wncc/learners-space/blob/master/Web%20Development/Week%204/major_assignment.md)
- - **Week 5+6**: Backend Theory, Introduction to Django, Databases, APIs in Django
+ - **Week 3**: [Bootstrap(Optional), Javascript](./Week%203/Bootstap%2BJavaScript.md)
+ - **Week 4**: [Mid-course evaluation(Major assignment)](./Week%204/major_assignment.md)
+ - **Week 5**: [Introduction to Back-End Development with Django](./Week%205/Django.md)
+ - **Week 6**: Databases, APIs in Django
  - **Week 7**: Final assignment
 
 Follow this course on [Telegram](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw) for further discussions.
+
+Also check the official [Announcements Channnel](https://t.me/joinchat/AAAAAEM1ff5yT_ipGJ1pNw) for regular updates.
+
+
+<p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
