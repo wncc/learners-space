@@ -8,6 +8,11 @@ This week we'll be starting with the back end part of Web Development, through t
 
 If you already know the basics of Python, dive right in to the Django tutorials. Even if you don't know Python or just aren't comfortable with it, we have some great resourses for you to build a working base of Python. Learning Python is an absolutely essential skill as its applications go far beyond just web development. Be it Game Development or Machine Learning, you need to learn Python. So we recommend giving a sufficient amount of time in understanding the fundamentals of Python and you are good to go!
 
+Link for brief tutorials on:
+ - [Python](./supplements/Python.md)
+ - [pip](./supplements/pip.md)
+ - [virtualenv](./supplements/virtualenv.md)
+
 
 ## What is Back-End Development and how does it fit in to the big picture?
 
@@ -49,6 +54,7 @@ This is the recommended way to install Django.
 2. Take a look at [venv](https://docs.python.org/3/tutorial/venv.html). This tool provides isolated Python environments, which are more practical than installing packages systemwide. It also allows installing packages without administrator privileges. The [contributing tutorial](https://docs.djangoproject.com/en/3.0/intro/contributing/) walks through how to create a virtual environment.
 
 3. After you’ve created and activated a virtual environment, enter the command: `$ python -m pip install Django` 
+
 Also checkout this [video](https://youtu.be/N5vscPTWKOk) if you are facing trouble with virtual environments, through virtualenv
 
 Here is a [video](https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&t=232) for Django introduction and installation through pip.
@@ -74,7 +80,7 @@ __Note__: We require that you only go through either text or video tutorials for
 
 ##
 
-As always, we encourage healty discussion on our [Telegram Group](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw)
+As always, we encourage healthy discussion on our [Telegram Group](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw)
 
 If you haven't already, join the [Announcements Channel](https://t.me/joinchat/AAAAAEM1ff5yT_ipGJ1pNw) for the latest updates on this course.
 
