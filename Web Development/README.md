@@ -11,7 +11,7 @@ The tentative schedule for the course is as follows:
  - **Week 2**: [CSS](./Week%202/CSS.md)
  - **Week 3**: [Bootstrap(Optional), Javascript](./Week%203/Bootstap%2BJavaScript.md)
  - **Week 4**: [Mid-course evaluation(Major assignment)](./Week%204/major_assignment.md)
- - **Week 5**: [Introduction to Back-End Development with Django](./Week%205/Django.md)
+ - **Week 5**: [Introduction to Back-End Development with Django](./Week%205/README.md)
  - **Week 6**: Databases, APIs in Django
  - **Week 7**: Final assignment
 
