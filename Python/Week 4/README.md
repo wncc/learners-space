@@ -12,7 +12,7 @@ We are extremely glad that you have been constantly keeping up the enthusiasm an
 
 Error in Python can be of two types i.e. Syntax errors and Exceptions. Errors are the problems in a program due to which the program will stop the execution. On the other hand, exceptions are raised when some internal events occur which changes the normal flow of the program.
 
-Head over to this [Notebook]() to learn about Python Exceptions.
+Head over to this [Notebook](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%204/Notebook1.ipynb) to learn about Python Exceptions.
 
 To read more about Exception Handling refer [this](https://www.geeksforgeeks.org/python-exception-handling/)
 
@@ -25,7 +25,7 @@ __ next__ (in Python 3) method.
 
 next ( __ next__ in Python 3) The iterator next method should return the next value for the iterable. When an iterator is used with a ‘for in’ loop, the for loop implicitly calls next() on the iterator object. This method should raise a StopIteration to signal the end of the iteration.
 
-Check out this [Notebook]() to learn about Python Iterators.
+Check out this [Notebook](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%204/Notebook2.ipynb) to learn about Python Iterators.
 
 To read more about Iterators refer [this](https://www.geeksforgeeks.org/iterators-in-python/)
 
@@ -33,7 +33,7 @@ To read more about Iterators refer [this](https://www.geeksforgeeks.org/iterator
 
 A generator-function is defined like a normal function, but whenever it needs to generate a value, it does so with the yield keyword rather than return. If the body of a def contains yield, the function automatically becomes a generator function.
 
-Check out this [Notebook]() to learn about Python Generators.
+Check out this [Notebook](https://github.com/abhipaiangle/learners-space/blob/master/Python/Week%204/Notebook3.ipynb) to learn about Python Generators.
 
 To read more about Generators refer [this](https://www.geeksforgeeks.org/generators-in-python/)
 
@@ -66,11 +66,11 @@ Here is a problem for you to practise:
 
 * Rock Paper Scissor - Make the game Rock Paper Scissor using python. Set up virtual environment in the directory that you use and install random library using pip. You can take help from this solution in case you are not able to solve it yourself. [Solution](https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/)
 
-Input - Rock/ Paper/ Scissor (any 1)
+       Input - Rock/ Paper/ Scissor (any 1)
 
-Output - First line contains computer's choice from Rock, Paper and Scissor based on random selection. Second line contains "You Win" / "Tie" / "You Lose" based on the conditions of the game.
+       Output - First line contains computer's choice from Rock, Paper and Scissor based on random selection. Second line contains "You Win" / "Tie" / "You Lose" based on the conditions of the game.
 
-Conditions - Rock > Scissor, Scissor > Paper, Paper > Rock (> indicates L.H.S wins over R.H.S). In case of same choices, its a tie.
+       Conditions - Rock > Scissor, Scissor > Paper, Paper > Rock (> indicates L.H.S wins over R.H.S). In case of same choices, its a tie.
 
 Now that you have covered most part of the course you can join online coding contests for improving your skills.
 
