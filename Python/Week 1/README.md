@@ -78,7 +78,7 @@ Once you are done with the above questions, complete the Jupyter Notebooks:
 
 * [Module 1](./Week1-Module1.ipynb)
 * [Module 2](./Week1-Module2.ipynb)
-* [Assignment 1](./Week1-Assignment1.ipynb)
+* [Assignment 1](./Week1-Assignment.ipynb)
 
 The Week 1 content is divided into 2 modules. The first one covers Data Types and Operators, while the second one covers Conditionals and Loops. These interacive notebooks introduce you to all Week - 1 concepts and syntax along with hands-on code to try yourself! Make sure to play around with the code to understand it well. Read the instructions below on how to download the notebooks.
 
@@ -93,7 +93,7 @@ The Week 1 content is divided into 2 modules. The first one covers Data Types an
 3. The python notebook opens as raw text in browser. Right click->Save as OR just press CTRL + S. Save the notebook, open it using Jupyter Notebook you just installed and start learning! 
 
 
-If you get stuck in any of the above questions, feel free to post them in the [Telegram](https://t.me/joinchat/OEr2Tk_ieMMmwihkBQVjFw) group. Additionally, you can also search for the problems online. Another aspect to becoming a good programmer is learning how to debug your code! it is very common to encounter error along the way of programming and in that case, try reading the error and understanding the reason behind it. More often than not, you may not be able to figure out yourself, the cause of the error. So, in that case, copy the error meassage and google it! You would be surprised how common such practices are and there are many forums where people may have already asked similar questions and have gotten solutions too! Stack Overflow is one such question and answer site for professional and enthusiast programmers. 
+If you get stuck in any of the above questions, feel free to post them in the [Telegram](https://t.me/joinchat/OEr2Tk_ieMMmwihkBQVjFw) group. Additionally, you can also search for the problems online. Another aspect to becoming a good programmer is learning how to debug your code! it is very common to encounter error along the way of programming and in that case, try reading the error and understanding the reason behind it. More often than not, you may not be able to figure out the cause of the error yourself. So, in that case, copy the error message and google it! You would be surprised how common such practices are and there are many forums where people may have already asked similar questions and have got solutions too! Stack Overflow is one such question and answer site for professional and enthusiast programmers. 
 
 For codechef questions, you can also search for the problems online with their name and problem code and most of the times you will easily find a solution for it. 
 
