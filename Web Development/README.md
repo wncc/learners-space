@@ -7,11 +7,17 @@ Welcome to the course on Web Development from Learners' Space by Career Cell and
 The course has no prerequisites (except for knowing how to type and use a browser)
 
 The tentative schedule for the course is as follows:
- - **Week 1**: [Git/GitHub](./Week%201/Git.md), [HTML](./Week%201/HTML.md)
- - **Week 2**: CSS
- - **Week 3**: Bootstrap(Optional), Javascript
- - **Week 4**: Mid-course evaluation assignment
- - **Week 5+6**: Backend Theory, Introduction to Django, Databases, APIs in Django
- - **Week 7**: Final assignmnet
+ - **Week 1**: [Git/GitHub/BigHome](./Week%201/Git.md), [HTML](./Week%201/HTML.md)
+ - **Week 2**: [CSS](./Week%202/CSS.md)
+ - **Week 3**: [Bootstrap(Optional), Javascript](./Week%203/Bootstap%2BJavaScript.md)
+ - **Week 4**: [Mid-course evaluation(Major assignment)](./Week%204/major_assignment.md)
+ - **Week 5**: [Introduction to Back-End Development with Django](./Week%205/README.md)
+ - **Week 6**: [Database Management](./Week%206/Databases.md), [APIs in Django REST Framework](./Week%206/REST_APIs.md)
+ - **Week 7**: Final assignment
 
 Follow this course on [Telegram](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw) for further discussions.
+
+Also check the official [Announcements Channnel](https://t.me/joinchat/AAAAAEM1ff5yT_ipGJ1pNw) for regular updates.
+
+
+<p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>

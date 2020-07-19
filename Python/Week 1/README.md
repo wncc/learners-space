@@ -19,8 +19,6 @@ Visit this link for a detailed guide on installing and setting up Python - [Pyth
 Jupyter notebook is a web based notebook environment which is widely used for interactive programming, that is, code execution combined with rich markdown text and much more. The Jupyter notebook runs a local Ipython kernel on your machine and launches in your web browser. These notebooks are also called as Ipython notebooks, and have a '.ipynb' extension instead of traditional '.py' extension for Python files. 
 All the assignments for this course are made in Jupyter notebooks and you are expected to complete them in the notebook itself. Hence, it is important for you to get aquainted with Jupyter notebooks. 
 
-Visit [this](https://realpython.com/jupyter-notebook-introduction/) link for installing and setting up a basic notebook. The link also teaches you to write and execute a basic Python code in a Notebook cell. 
-=======
 Visit this link for installing and setting up a basic notebook - [Setting up Jupyter Notebook](https://realpython.com/jupyter-notebook-introduction/). The link also teaches you to write and execute a basic Python code in a Notebook cell. 
 
 ## Introduction to Data Types and Data Structures in Python
@@ -70,13 +68,34 @@ Make sure you have covered the following topics -
 * continue statement
 * If-else condition ( normal, nested, if-elif)
 
-## Assignment - Week 1 
+# Learning with Hands-on code
+### Assignment - Week 1 
 Once you are done with the above topics, you can now write basic code and solve elementary problems in Python. For this week, we will be providing links to some Competitive Coding questions. Make sure to select 'PYTH 3.6' as the compiler for the code. 
 * [Reverse the Number](https://www.codechef.com/problems/FLOW007)
 * [Second Largest](https://www.codechef.com/problems/FLOW017) 
 
-If you get stuck in any of the above questions, feel free to post them in the [Telegram](https://t.me/joinchat/OEr2Tk_ieMMmwihkBQVjFw) group. Additionally, you can also search for the problems online with their name and problem code and most of the times you will easily find a solution for it. 
+Once you are done with the above questions, complete the Jupyter Notebooks:
 
+* [Module 1](./Week1-Module1.ipynb)
+* [Module 2](./Week1-Module2.ipynb)
+* [Assignment 1](./Week1-Assignment.ipynb)
+
+The Week 1 content is divided into 2 modules. The first one covers Data Types and Operators, while the second one covers Conditionals and Loops. These interacive notebooks introduce you to all Week - 1 concepts and syntax along with hands-on code to try yourself! Make sure to play around with the code to understand it well. Read the instructions below on how to download the notebooks.
+
+<br> The Assignment 1 notebook will be used for evaluation of the course, hence you are expected to complete them within the week.
+
+### Instructions to download the assignments:
+1. Open on the respective `.ipynb` file on GitHub
+2. In the upper right corner, there are several buttons and icons including the ones shown below. Click on the Raw Button.
+       Raw | Blame
+      --- | ---
+      
+3. The python notebook opens as raw text in browser. Right click->Save as OR just press CTRL + S. Save the notebook, open it using Jupyter Notebook you just installed and start learning! 
+
+
+If you get stuck in any of the above questions, feel free to post them in the [Telegram](https://t.me/joinchat/OEr2Tk_ieMMmwihkBQVjFw) group. Additionally, you can also search for the problems online. Another aspect to becoming a good programmer is learning how to debug your code! it is very common to encounter error along the way of programming and in that case, try reading the error and understanding the reason behind it. More often than not, you may not be able to figure out the cause of the error yourself. So, in that case, copy the error message and google it! You would be surprised how common such practices are and there are many forums where people may have already asked similar questions and have got solutions too! Stack Overflow is one such question and answer site for professional and enthusiast programmers. 
+
+For codechef questions, you can also search for the problems online with their name and problem code and most of the times you will easily find a solution for it. 
 
 Congratualtions! You have successfully completed Week 1 of Python! Keep up the enthusiasm! 
 
