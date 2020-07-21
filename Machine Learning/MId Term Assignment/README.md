@@ -6,7 +6,7 @@ In this assignment, you will put into practice some of the key principles and te
 We find this as a very good dataset for you to practice your hands on exploring data and building regression models.
 
 ### Problem Overview
-In 1998, the Adventure Works Cycles company collected a large volume of data about their existing customers, including demographic features and information about purchases they have made. The company is particularly interested in analyzing customer data to determine any apparent relationships between demographic features known about the customers and the likelihood of a customer purchasing a bike. Additionally, the analysis should endeavor to determine whether a customer's average monthly spend with the company can be predicted from known customer characteristics.
+In 1998, the Adventure Works Cycles company collected a large volume of data about their existing customers, including demographic features and information about purchases they have made. The analysis should endeavor to determine whether a customer's average monthly spend with the company can be predicted from known customer characteristics.
 
 To complete this problem, you must tackle two challenges:
 - Challenge 1: Explore the data and gain some insights into Adventure Works customer characteristics and purchasing behavior.
