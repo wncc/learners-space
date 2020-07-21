@@ -17,7 +17,7 @@ Hence, in Python, a file operation takes place in the following order:
 2. Read or write (perform operation)
 3. Close the file
 
-Head over to this [Notebook](./Week5-module1.ipynb) to learn about Python functions for fucntions for file handling.
+Head over to this [Notebook](./Week5-1.ipynb) to learn about Python functions for fucntions for file handling.
 
 To read more about File Handling refer [this](https://www.geeksforgeeks.org/file-handling-python/)
 
