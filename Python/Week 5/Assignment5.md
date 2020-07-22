@@ -40,7 +40,7 @@ Do atleast one of the following using tkinter -
 1. Make a digital clock (easiest) - Submission should include - a python program using tkinter which displays date and time (hour, minutes, seconds) 
 2. Make a tic-tac-toe game
   * [reference](https://www.geeksforgeeks.org/tic-tac-toe-gui-in-python-using-pygame/)
-3. Make a calculator allowing operations - (=, -, /, *) on integers
+3. Make a calculator allowing operations - (+, -, /, *) on integers
   * [reference](https://www.geeksforgeeks.org/python-simple-calculator-using-tkinter/?ref=rp)
   
 ## Task 3 - Automation task
@@ -49,4 +49,13 @@ Do atleast one of the following using tkinter -
   * [reference 2](https://www.youtube.com/watch?v=CwLrdjgsJjU&t=1125s)
   * [reference 3](https://www.youtube.com/watch?v=oM-yAjUGO-E)
   
-## Task 4 - Miscellaneous 
+## Task 4 - Miscellaneous and open ended
+Do atleast one of the following -
+1. Make a music player application. Minimum requirement - works with 6-10 tracks and has features - quit, play/pause, next track, previous track.
+ * [reference 1](https://www.youtube.com/watch?v=9sia_Lg4d2Q&t=558s)
+2. Make an image viewing application. Minimum requirement - works with 6-10 images and has features - quit, next image, previous image.
+ * [reference 1](https://www.youtube.com/watch?v=zg4c92pNFeo&t=811s)
+3. Make a twitter bot using selenium. Minimum requirement - tweets a specific hashtag or replies to a specific hashtag.
+ * [reference 1](https://www.youtube.com/watch?v=ti7HWSwBnBE)
+
+A sample reference link is provided, google the task and you will get much more resources.
