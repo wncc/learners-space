@@ -69,3 +69,32 @@ Matplotlib is one of the most popular Python packages used for data visualizatio
 Matplotlib has a procedural interface named the Pylab, which is designed to resemble MATLAB, a proprietary programming language developed by MathWorks. Matplotlib along with NumPy can be considered as the open source equivalent of MATLAB.
 
 Head on to this [link](https://heartbeat.fritz.ai/introduction-to-matplotlib-data-visualization-in-python-d9143287ae39) for an introduction to data visualisation with matplotlib in python. Another reference for a more quick recap is provided [here](https://towardsdatascience.com/introduction-to-matplotlib-in-python-5f5a9919991f).
+
+
+# GUI development in Python
+
+Python offers multiple options for developing GUI (Graphical User Interface). Most important are listed below-
+
+* **Tkinter** − Tkinter is the Python interface to the Tk GUI toolkit shipped with Python. We would look this option in detail.
+
+* **wxPython** − This is an open-source Python interface for wxWindows. Learn more [here](http://wxpython.org).
+
+* **JPython** − JPython is a Python port for Java which gives Python scripts seamless access to Java class libraries on the local machin. Learn more [here](http://www.jython.org).
+
+Out of all the GUI methods, tkinter is the most commonly used method. It is a standard Python interface to the Tk GUI toolkit shipped with Python. Python with tkinter is the fastest and easiest way to create the GUI applications. Tkinter provides a powerful object-oriented interface.
+
+Creating a GUI application using Tkinter is an easy task. All you need to do is perform the following steps −
+1. Import the Tkinter module.
+
+2. Create the GUI application main window.
+
+3. Add one or more of the above-mentioned widgets to the GUI application.
+
+4. Enter the main event loop to take action against each event triggered by the user.
+
+Head over to this [tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/) to learn more about tkinter. You can also refer 
+[this](https://www.javatpoint.com/python-tkinter) for a comprehensive overview of all UI widgets. 
+
+For those prefering video tutorials [here](https://www.youtube.com/watch?v=VMP1oQOxfM0) is a good source to refer to. It is recommended to follow the video along with hands-on 
+code writing and testing.
+
