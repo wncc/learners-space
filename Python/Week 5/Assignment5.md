@@ -34,6 +34,8 @@ a text file the program was tested on, an audio file storing the output coresspo
 5. **Bonus** - send an email using python 
   * [reference 1](https://realpython.com/python-send-email/)
   * [reference 2](https://www.youtube.com/watch?v=JRCJ6RtE3xU)
+  
+<hr>
 
 ## Task 2 - GUI task
 Do atleast one of the following using tkinter - 
@@ -43,11 +45,15 @@ Do atleast one of the following using tkinter -
 3. Make a calculator allowing operations - (+, -, /, *) on integers
   * [reference](https://www.geeksforgeeks.org/python-simple-calculator-using-tkinter/?ref=rp)
   
+<hr>
+  
 ## Task 3 - Automation task
 1. Learn usage of Selenium in python for Web automation (would help get a better understanding of the subsequent tasks)
   * [reference 1](https://www.edureka.co/blog/selenium-using-python/)
   * [reference 2](https://www.youtube.com/watch?v=CwLrdjgsJjU&t=1125s)
   * [reference 3](https://www.youtube.com/watch?v=oM-yAjUGO-E)
+  
+<hr>
   
 ## Task 4
 Do atleast one of the following -
