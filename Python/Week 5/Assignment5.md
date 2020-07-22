@@ -45,11 +45,11 @@ Do atleast one of the following using tkinter -
   
 ## Task 3 - Automation task
 1. Learn usage of Selenium in python for Web automation (would help get a better understanding of the subsequent tasks)
-  * [reference 3](https://www.edureka.co/blog/selenium-using-python/)
+  * [reference 1](https://www.edureka.co/blog/selenium-using-python/)
   * [reference 2](https://www.youtube.com/watch?v=CwLrdjgsJjU&t=1125s)
   * [reference 3](https://www.youtube.com/watch?v=oM-yAjUGO-E)
   
-## Task 4 - Miscellaneous and open ended
+## Task 4
 Do atleast one of the following -
 1. Make a music player application. Minimum requirement - works with 6-10 tracks and has features - quit, play/pause, next track, previous track.
  * [reference 1](https://www.youtube.com/watch?v=9sia_Lg4d2Q&t=558s)
