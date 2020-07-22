@@ -3,7 +3,7 @@
 We are extremely glad that you have been constantly keeping up the enthusiasm and following the course. For the fifth week we will be covering the following topics:
 * [File Handling](#file-handling)
 * Use of major libraries - [Numpy](#use-of-numpy), [Pandas](#use-of-pandas), [Scipy](#use-of-scipy), [Matplotlib](#use-of-matplotlib)
-* [GUI Development using Python](#gui-development-using-python)
+* [GUI Development using Python](#gui-development-in-python)
 
 This week and the subsequent one is aimed at introducing you to the diverse and wider applications of python. 
 <hr>
