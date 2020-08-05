@@ -40,8 +40,8 @@ What you need for the assignment -
 * **YouTube-dl Library** - This will be used for getting the artist and the song name from a youtube video. 
 * **Spotify Web API** - This will be used for searching a song name on Spotify and then adding it to Liked Songs. 
 
-To familiarize yourself with the Youtube API, go to this **[Python Youtube API tutorial](https://www.youtube.com/watch?v=th5_9woFJmk&t=803s)**
-To familiarize yourself with the Spotufy API, go to this **[Python Spotify API tutorial](https://www.youtube.com/watch?v=aKARFU_cvfk&t=389s)**
+To familiarize yourself with the Youtube API, go to this **[Python Youtube API tutorial](https://www.youtube.com/watch?v=th5_9woFJmk&t=803s)**<br>
+To familiarize yourself with the Spotufy API, go to this **[Python Spotify API tutorial](https://www.youtube.com/watch?v=aKARFU_cvfk&t=389s)**<br>
 To see detailed step by step instructions of the project, checkout this **[reference](https://www.youtube.com/watch?v=R3XgZ__jQxw&t=693s)**
 
 
