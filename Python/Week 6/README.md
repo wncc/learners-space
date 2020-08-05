@@ -10,7 +10,15 @@ A good analogy for understanding APIs is that when you type in a URL, you reques
 ## Introduction to Web Scraping and Parsing
 Web scraping is the process of accessing the HTML page of any website and then collecting data from that page. This is useful for many applications where you want data continously from websites in which data is dynamic, for instance, stock prices, or sports stats, or amazon product prices. Again, the idea is same as APIs, that is collect data from websites, but here instead of using the website's API for data, we use the HTML page of the website.
 * Checkout this short video for an introduction to web scraping - **[Web Scraping Intro](https://www.youtube.com/watch?v=Ct8Gxo8StBU)**
+
 Now lets go deeper into web scraping and build our own parser. For navigating through a webpage to extract only the useful information, we use a famous Python Library known as **BeautifulSoup**. You can checkout the documentation **[here](http://www.crummy.com/software/BeautifulSoup/)**. 
 * Checkout this GfG tutorial on web scraping - **[Web Scraping GfG](https://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/)**
 * Go through this video series on web scraping - **[Video #1](https://www.youtube.com/watch?v=aIPqt-OdmS0)**, **[Video #2](https://www.youtube.com/watch?v=kRDrlvO-Oz0)**, **[Video #3](https://www.youtube.com/watch?v=sAuGH1Kto2I)**, **[Video #4](https://www.youtube.com/watch?v=FSH77vnOGqU)**. 
+
+### Getting Started with Selenium 
+Selenium is a framework which allows us to interact with the HTML elements of a website. So till now, we were only extracting data from a HTML webpage and then using it for different tasks. In addition to extracting data, Selenium allows us to interact with the webpage as well. So any interaction that you perform with a webpage can be automated using Selenium, for eg: Filling a form online, reading and extracting elements of the source code, etc. Now we will only be covering the basic of Selenium here, since Selenium in itself requires another course for learning. 
+* Checkout this YouTube playlist on Introduction to Selenium - **[Selenium Tutorials Playlist](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n40rB1XaJ0ak1bemvlqumQ)**. 
+
+The videos in the playlist are made for absolute beginners, and walks through each and every step in detail, covering everything from installation (and troubleshooting) to introducing UnitTest frameworks. 
+* Optionally, you can also checkout this link for reading tutorials - **[Selenium WebDriver Tutorials](https://www.guru99.com/selenium-tutorial.html)**. Keep in mind that this link also covers advanced tutorials on selenium webdrivers, so if you want to explore more of Selenium, you can go through them. 
 
