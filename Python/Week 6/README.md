@@ -1,5 +1,8 @@
 # Welcome to Week 6 of LS Python!
-This week we will be covering topics like Web Scraping and Web APIs. 
+This week we will be covering the following topics:
+* Python API
+* Introduction to Web Scraping and Parsing 
+  * Introduction to Selenium 
 
 ## Python APIs
 Every website has an API or Application Programming Interface hosted on its web server, through which it distributes data avaliable on the web server. To use an API, you make a request to a remote web server, and retrieve the data you need. Retrieving data using APIs can be useful when the data on the web server is dynamic, that is, changing constantly, for example, stock price data. 
