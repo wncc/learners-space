@@ -8,6 +8,7 @@ This week we will be covering the following topics:
 Every website has an API or Application Programming Interface hosted on its web server, through which it distributes data avaliable on the web server. To use an API, you make a request to a remote web server, and retrieve the data you need. Retrieving data using APIs can be useful when the data on the web server is dynamic, that is, changing constantly, for example, stock price data. 
 A good analogy for understanding APIs is that when you type in a URL, you request a webpage from the webserver, similarly, through an API you request data from the webserver. This data is returned in JSON format. 
 * To get into more depth with Python APIs, checkout this link - **[Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)**
+* For further exploration of apis, also checkout - **[APIs in Python](https://towardsdatascience.com/all-you-need-to-know-on-apis-with-python-927fb572d723)**
 
 
 ## Introduction to Web Scraping and Parsing
@@ -26,10 +27,21 @@ The videos in the playlist are made for absolute beginners, and walks through ea
 * Optionally, you can also checkout this link for reading tutorials - **[Selenium WebDriver Tutorials](https://www.guru99.com/selenium-tutorial.html)**. Keep in mind that this link also covers advanced tutorials on selenium webdrivers, so if you want to explore more of Selenium, you can go through them. 
 
 ## Assignment 6 - Automate Spotify with Python
-For this week's assignment, you will be implementing a basic project in Python which takes a YouTube music video link, searches for the song title in Spotify and adds it to a playlist. 
+For this week's assignment, you have 2 options to choose from and you have to submit atleast one of them.
+
+### Intermediate Assignment
+Here you will be implementing a Desktop Notifier for Covid19 which displays latest update of coronavirus in India. You will be requesting data from this [website](https://www.worldometers.info/coronavirus/country/india/), use beautifulsoup to parse the data and then display a desktop notification. To get a detailed guide on the project checkout this **[reference](https://www.youtube.com/watch?v=BtiZOyOZ_RQ)**
+
+### Advanced Assignment
+Here you will be implementing a project in Python which takes a YouTube music video link, searches for the song title in Spotify and adds it to a playlist. 
 
 What you need for the assignment - 
 * **YouTube Data API** - This will be used for getting all the videos and playlists on YouTube. 
 * **YouTube-dl Library** - This will be used for getting the artist and the song name from a youtube video. 
 * **Spotify Web API** - This will be used for searching a song name on Spotify and then adding it to Liked Songs. 
+
+To familiarize yourself with the Youtube API, go to this **[Python Youtube API tutorial](https://www.youtube.com/watch?v=th5_9woFJmk&t=803s)**
+To familiarize yourself with the Spotufy API, go to this **[Python Spotify API tutorial](https://www.youtube.com/watch?v=aKARFU_cvfk&t=389s)**
+To see detailed step by step instructions of the project, checkout this **[reference](https://www.youtube.com/watch?v=R3XgZ__jQxw&t=693s)**
+
 
