@@ -22,3 +22,11 @@ Selenium is a framework which allows us to interact with the HTML elements of a 
 The videos in the playlist are made for absolute beginners, and walks through each and every step in detail, covering everything from installation (and troubleshooting) to introducing UnitTest frameworks. 
 * Optionally, you can also checkout this link for reading tutorials - **[Selenium WebDriver Tutorials](https://www.guru99.com/selenium-tutorial.html)**. Keep in mind that this link also covers advanced tutorials on selenium webdrivers, so if you want to explore more of Selenium, you can go through them. 
 
+## Assignment 6 - Automate Spotify with Python
+For this week's assignment, you will be implementing a basic project in Python which takes a YouTube music video link, searches for the song title in Spotify and adds it to a playlist. 
+
+What you need for the assignment - 
+* **YouTube Data API** - This will be used for getting all the videos and playlists on YouTube. 
+* **YouTube-dl Library** - This will be used for getting the artist and the song name from a youtube video. 
+* **Spotify Web API** - This will be used for searching a song name on Spotify and then adding it to Liked Songs. 
+
