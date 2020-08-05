@@ -44,4 +44,7 @@ To familiarize yourself with the Youtube API, go to this **[Python Youtube API t
 To familiarize yourself with the Spotufy API, go to this **[Python Spotify API tutorial](https://www.youtube.com/watch?v=aKARFU_cvfk&t=389s)**<br>
 To see detailed step by step instructions of the project, checkout this **[reference](https://www.youtube.com/watch?v=R3XgZ__jQxw&t=693s)**
 
+### Assignment Submission
+For this week's submission, you need to make a short video of 1-2 minutes showing your working code, upload it to Google Drive and then submit the drive link. Make sure to show every step of your code from beginning to end. For eg, for the advanced assignment, the final video should show everything from the user selecting a playlist/song from YouTube to the song showing up in Spotify's Liked songs. 
+
 
