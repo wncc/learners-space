@@ -53,3 +53,16 @@ There are several articles one can read to get a grip on this technique. Also, l
 * **[Xavier and He Initialisation](https://medium.com/@prateekvishnu/xavier-and-he-normal-he-et-al-initialization-8e3d7a087528)**
 * **[Mathematical Aspects of Initialisation](https://mmuratarat.github.io/2019-02-25/xavier-glorot-he-weight-init)**
 * **[Research Paper on Exploring Initialisation Stratergies on Several Activation Functions](https://arxiv.org/pdf/1704.08863.pdf)**
+
+## Dropouts
+
+We studied earlier how Neural Nets and any machine learning model in general is prone to overfitting. Dropouts are an ingenius way to prevent this in the case of neural nets. Basically, some of the neurons are turned off in some sense at every forward pass during training. What is done is that the activation of some of the neurons of the network are set to 0 for one forward pass. This disallows any neuron to specialise in some aspect of the data that in turn reduces overfitting by allowing several neurons in the layer to learn things. Hence the learning gets distributed which leads to better generalisations. 
+
+Basically, to implement this, a probabiity value is fixed and it is with this probability for every neuron that it is turned on or off.  
+
+This technique has become really popular recently and the good thing is that the frameworks like Tensorflow already have Dropouts implemented that reduces the burden of implementing this.  
+
+To read more about Dropouts, go through the following links - 
+
+* **[Dropouts](https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5)**
+* **[Math Behind Dropouts](https://towardsdatascience.com/simplified-math-behind-dropout-in-deep-learning-6d50f3f47275)** (Advanced Content)
