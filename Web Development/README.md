@@ -13,7 +13,7 @@ The tentative schedule for the course is as follows:
  - **Week 4**: [Mid-course evaluation(Major assignment)](./Week%204/major_assignment.md)
  - **Week 5**: [Introduction to Back-End Development with Django](./Week%205/README.md)
  - **Week 6**: [Database Management](./Week%206/Databases.md), [APIs in Django REST Framework](./Week%206/REST_APIs.md)
- - **Week 7**: Final assignment
+ - **Week 7**: [Final assignment](./Week%207/major_assignment.md)
 
 Follow this course on [Telegram](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw) for further discussions.
 
