@@ -28,9 +28,9 @@ For the assignment we require you to create a Food Delivery App using the skil
 
 ## Helpful videos
 
-Food Delivery App : [Part-1](https://youtu.be/Q-mIGwpKp8M) + [Part-2](https://youtu.be/F_vlRQTLiXQ)
-*NOTE: DO NOT ATTEMPT TO COPY THE SOURCE CODE*
-We will be checking your assignments thoroughly, and any attempt to copy the code will be strictly taken care of.
+Food Delivery App : [Part-1](https://youtu.be/Q-mIGwpKp8M) + [Part-2](https://youtu.be/F_vlRQTLiXQ)<br />
+*NOTE: DO NOT ATTEMPT TO COPY THE SOURCE CODE*<br />
+**We will be checking your assignments thoroughly, and any attempt to copy the code will be strictly taken care of.**
 So put on you coding caps and get creative !
 
 ## How to host your Web App?
