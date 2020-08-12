@@ -56,7 +56,7 @@ There are several solutions for this, many of which are model - specific
 * **[How to Deal with Underfitting and Overfitting](https://towardsdatascience.com/underfitting-and-overfitting-in-machine-learning-and-how-to-deal-with-it-6fe4a8a49dbf)**
 * **[The Problem of Overfitting](https://www.youtube.com/watch?v=BqzgUnrNhFM)**
 
-## Regularisation  (To be Added Soon)
+## Regularisation
 
 Basically, this tends to reduce the magnitude of the weights/paramteres of the model in order to reduce the extent of overfitting and thus lead to better generalisations. This is called Regularisation. We look at a few techniques to regularise the network - 
 * **Lasso Regression** - Also referred to as the **L1 regularisation**. This technique involves addition of magnitude of the weights to the loss function as a penalty so that they don't become large enough and overfit the data.  
