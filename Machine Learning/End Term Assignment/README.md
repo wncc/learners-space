@@ -18,7 +18,7 @@ You have the freedom to choose the activations and kernel size in these layers. 
 Again, you are free to choose a loss function and optimizer of your choice. But make sure that the output of your model and the true labels are compatible with the loss function. For example; If the output of your model is a Softmax output, your true labels should be one hot encoded and the loss should be 'categortical crossentropy'. So keep in mind whether the loss of your choice make sense with your output or not. 
 
 ## Training and Testing
-There are no specific instruction on training. The Tensorflow framework makes it extremely easy to compile and fit your model. Make sure that you split your dataset into training and testing data and then evaluate your trained model on the testing data. The final accuracy value will be used for submission. 
+There are no specific instructions on training. The Tensorflow framework makes it extremely easy to compile and fit your model. Make sure that you split your dataset into training and testing data and then evaluate your trained model on the testing data. The final accuracy value will be used for submission. 
 
 ## Submission 
 You have to submit your final code (with outputs), either as a Google Colab link or a Google Drive Link (upload your code to Google drive, give viewing access, and submit the link). Your code should show the final classification accuracy on the **test dataset**, along with the predicted class for a few sample images (from the test dataset). Try to include graphs for any data analysis or visualisation you performed on the dataset. Make it as visually appealing as possible, with proper labelling and legends.
