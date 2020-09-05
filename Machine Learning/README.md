@@ -59,6 +59,7 @@ This week we take a flavour of **Neural Networks** that have revolutionised the 
 * From this week onwards, we also start to look at practical aspects of Machine Learning models which are undoubtedly the determiners of efficiency of a model. They are crucial things to which one must arrive at before diving into to solving the task at hand.
 * We also introduce some statistical concepts that are closely related to Machine Learning and are fundamental to the understanding of Machine learning models.
 
+
 ---
  
  
