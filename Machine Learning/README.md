@@ -39,6 +39,26 @@ We begin our walk with basics of Machine Learning i.e. Regression and Classifica
 * We then try to build upon the Data Analysis we learned in Week 1 by understanding **Exploratory Data Analysis** and **Data Pre-Processing**.
 * We finally try to unify all the types of linear models under one umbrella called **Generalised Linear Models (GLM)**. This topic turns to be math intensive and so we in some sense try to make it as much as intutive as possible and avoided the math behind stuff.
 
+
+## Week 3
+
+From the realm of Linear Models, we try to explore some non-linear models in this week and understand some **Unsupervised Learning** models.
+
+* We start with a non-parametric learning model called the **Decision Tree**. This is a really simple idea and the first glance may seem to be trivial but is a really powerful model for both **Regression** and **Classification**. It is really important to understand this well as this was used and is still in use extensively.
+* We also talk about an Algorithm for construcyion of Decision Trees.
+* We then talk about **Ensemble**. We talk about an ensemble of **Decision Trees** known as **Random Forest** and try to figure out the ways in which we should try to ensemble decision trees. We talk about pros and cons of this model relative to Decision Trees.
+* How should we deal an image that has hundreds of dimension. Is it feasible to use the entire image in its original form in our conventional models? To answer such questions, we try to explain a technique called **Principal Component Analysis** that is used greatly for **Face Recognition**. This in essence is a **Dimensionality Reduction Technique**.
+* We now, jump to an **Unsupervised Learning** model named **k Nearest Neighbours (kNN)** used to make some sense of the data by clustering the data. It is used widely today as a Classifier. It is essentially a **Non Parametric Learning** model.
+
+## Week 4
+
+This week we take a flavour of **Neural Networks** that have revolutionised the field of Artifical Intelligence. It is used extensively in almost every domain of Artifical Learning. With it's advent, the conventional learning models lost their importance because in some sense this unifies everything into one and only one model that can do almost everything that the machine learning models do. 
+
+* We talk about the fundamentals of Neural Nets and the associated mathematics for a better understanding of it's working.
+* We also talk about few general concepts like Loss Function and Optimisation techniques.
+* From this week onwards, we also start to look at practical aspects of Machine Learning models which are undoubtedly the determiners of efficiency of a model. They are crucial things to which one must arrive at before diving into to solving the task at hand.
+* We also introduce some statistical concepts that are closely related to Machine Learning and are fundamental to the understanding of Machine learning models.
+
 ---
  
  
