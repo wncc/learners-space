@@ -27,7 +27,8 @@ We begin our journey in the world of Machine Learning by laying down the foundat
 
 We are now set to dive deep into Machine learning and every aspect of it in detail starting with week 2.
  
- 
+
+---
  
  
 <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
