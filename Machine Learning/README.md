@@ -54,10 +54,20 @@ From the realm of Linear Models, we try to explore some non-linear models in thi
 
 This week we take a flavour of **Neural Networks** that have revolutionised the field of Artifical Intelligence. It is used extensively in almost every domain of Artifical Learning. With it's advent, the conventional learning models lost their importance because in some sense this unifies everything into one and only one model that can do almost everything that the machine learning models do. 
 
-* We talk about the fundamentals of Neural Nets and the associated mathematics for a better understanding of it's working.
-* We also talk about few general concepts like Loss Function and Optimisation techniques.
-* From this week onwards, we also start to look at practical aspects of Machine Learning models which are undoubtedly the determiners of efficiency of a model. They are crucial things to which one must arrive at before diving into to solving the task at hand.
-* We also introduce some statistical concepts that are closely related to Machine Learning and are fundamental to the understanding of Machine learning models.
+* We talk about the fundamentals of **Neural Nets** and the associated mathematics for a better understanding of it's working.
+* We also talk about few general concepts like **Loss Function** and **Optimisation techniques**.
+* From this week onwards, we also start to look at **practical aspects** of Machine Learning models which are undoubtedly the determiners of efficiency of a model. They are crucial things to which one must arrive at before diving into to solving the task at hand.
+* We also introduce some **statistical** concepts that are closely related to Machine Learning and are fundamental to the understanding of Machine learning models.
+* We also give a few practice exercises to get your understanding clear on this really important model.
+
+## Week 5
+
+This week, we start with implementation details of Neural Networks in Standard Libraries like Tensorflow and Keras. We also try to further our knowledge of Neural Nets with more advanced concepts.
+
+* We start with tutorials on **tensorflow** and **Keras** where we learn about the implementation of Neural Nets and applying them to tasks.
+* We then head on to Convolutional Neural Nets. Probaby one of the greatest developments in the field of Deep Learning that has indeed changed the field of Computer Vision completely. 
+* We talk a lot of detail about CNN's and introduce you to **Conv Layers** and **Pooling Layers**.
+* A few exercises have been given to acquaint readers with Neural Nets and Convolutional Neural Nets.
 
 
 ---
