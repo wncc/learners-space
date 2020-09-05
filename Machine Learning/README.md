@@ -69,9 +69,17 @@ This week, we start with implementation details of Neural Networks in Standard L
 * We talk a lot of detail about CNN's and introduce you to **Conv Layers** and **Pooling Layers**.
 * A few exercises have been given to acquaint readers with Neural Nets and Convolutional Neural Nets.
 
+## Week 6
+
+In this final week, we talk a lot about practical details of Neural Nets and how they are crucial in determining the performance of our models.
+
+* We start with **Initialisation of Parameters** and talk extensively of it's effect on learning process of a model.
+* We try to unify all the techniques into one standard expression of Standard Deviation as explained in a Research Paper added in the content section.
+* We head on to essentially our last topic of discussion i.e. Dropouts. Google came up with this wonderful idea of Dropouts that in some sense allowed an ensemble using a single neural net and this improved performance greatly.
+
+With this we come to the end of our course that was developed completely by the members of the **WnCC  Family** with great efforts and an ambition to give the reader a tour of the really amazing Machine Learning field and acquaint you with the potential of Machine Learning to revolutionise the era of technology and make this world even more exciting.
 
 ---
- 
  
 <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
 
