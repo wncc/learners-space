@@ -3,9 +3,9 @@
 
 Hello everyone
 
-Welcome to the course on Python from Learners' Space by Career Cell and WnCC.
+Welcome to the course on Python from Learners' Space by Career Cell and WnCC. 
 
-The course has no prerequisites 
+In this course, you will be learning Python Data Structures, Object Oriented Programming, Python Packages, and some applications like Web Scraping and GUI Development. The course is divided into 6 weeks but you are free to learn it at your own pace. Further, it has no prerequisites but knowledge in any one of the programming languages will be an advantage.
 
 The tentative schedule for the course is as follows:
  - **Week 1**: [Setup/ Jupyter Notebooks/ Data Structures](./Week%201/README.md)
@@ -17,7 +17,6 @@ The tentative schedule for the course is as follows:
 
 Follow this course on [Telegram](https://t.me/joinchat/OEr2Tk_ieMMmwihkBQVjFw) for further discussions.
 
-Also check the official [Announcements Channnel](https://t.me/joinchat/AAAAAEM1ff5yT_ipGJ1pNw) for regular updates.
-
+Also join the WnCC [Telegram](https://t.me/joinchat/Go8oWRUqXsSufvCA75qMUQ) channel for regular updates of our events.
 
 <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
