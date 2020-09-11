@@ -5,7 +5,7 @@ Hello everyone
 
 Welcome to the course on Python from Learners' Space by Career Cell and WnCC. 
 
-In this course, you will be learning Python Data Structures, Object Oriented Programming, Python Packages, and some applications like Web Scraping and GUI Development. The course is divided into 6 weeks but you are free to learn it at your own pace. Further, it has no prerequisites but knowledge in any one of the programming languages will be an advantage.
+In this course, you will be learning Python Data Structures, Object Oriented Programming, Python Packages, and some applications like Web Scraping and GUI Development. The course is divided into 6 weeks but you are free to learn it at your own pace. Furthermore, it has no prerequisites but knowledge in any one of the programming languages will be an advantage.
 
 The tentative schedule for the course is as follows:
  - **Week 1**: [Setup/ Jupyter Notebooks/ Data Structures](./Week%201/README.md)
