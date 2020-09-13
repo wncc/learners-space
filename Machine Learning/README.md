@@ -19,7 +19,7 @@ Following is the weekly course structure -
 
 # Why This Course?
 
-You must be wondering, *"Not again! Why this course? Why should I even bother about this course when here are hundreds of other courses and tutorials available over the internet"*
+You must be wondering, *"Not again! Why this course? Why should I even bother about this course when there are hundreds of other courses and tutorials available over the internet"*
 
 It is rightly said *"Googling is an art"* and believe me it is not easy to Google things. Now, one can say that what a big deal, just type out the topic on Google Search Bar and *"Woah! A million results!"*. It is great that you have a million results at your disposal but with a million results creeps in a great challenge - **Quality**. There are tens of thousands of resources available to learn Machine Learning over the internet. But not every resource is good enough to give you insights into the concepts and help you gain intuition as to why things are working. There are even resources that give you wrong information. 
 
