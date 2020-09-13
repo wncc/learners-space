@@ -2,7 +2,7 @@
 
 Hello everyone, Welcome to the Machine learning course offered by WnCC in association with Career Cell under Learner's Space. 
 
-In this course, we cover the essentials of Classical Machine Learning or the Pre-Deep Learning era. The readers are then introduced to Deep Learning - the backbone of Artifical Intelligence today. This course requires one to be familiar with basics of Python and some background in Calculus.
+In this course, we cover the essentials of Classical Machine Learning or the Pre-Deep Learning era. The readers are then introduced to Deep Learning - the backbone of Artifical Intelligence today. This course requires one to be familiar with basics of Python and some background in Calculus. 
 
 Following is the weekly course structure - 
 
@@ -86,11 +86,17 @@ This week, we start with implementation details of Neural Networks in Standard L
 
 ## Week 6
 
-In this final week, we talk a lot about practical details of Neural Nets and how they are crucial in determining the performance of our models.
+In this week, we talk a lot about practical details of Neural Nets and how they are crucial in determining the performance of our models.
 
 * We start with **Initialisation of Parameters** and talk extensively of it's effect on learning process of a model.
 * We try to unify all the techniques into one standard expression of Standard Deviation as explained in a Research Paper added in the content section.
 * We head on to essentially our last topic of discussion i.e. **Dropouts**. Google came up with this wonderful idea of Dropouts that in some sense allowed an ensemble using a single neural net and this improved performance greatly.
+
+## Week 7
+
+In this final week, we give a well thought assignemnt to the readers so that they can get try their hands on a problem using all the concepts that they have learnt throughout the course. This assignment is also used to judge and evaluate the performance of the student based on how well the code is written and the accuracy of the model. 
+
+This assignment is based on Neural Networks that was first designed some 70 years back by Frank RosenBalt. Neural networks form the backbone of the entire Artifical Intelligence Industry today. Deep Learning has really taken off recently and through this assignment we try to give you a flavour of the Deep Learning domain through a very basic exercise. 
 
 ---
 
