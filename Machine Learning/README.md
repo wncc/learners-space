@@ -1,18 +1,21 @@
-# Machine Learning: Learner's Space
+# Machine Learning (Learner's Space 2020)
 
-Hello everyone, welcome to the machine learning course offered by WnCC in association with Career Cell under Learner's Space. 
+Hello everyone, Welcome to the Machine learning course offered by WnCC in association with Career Cell under Learner's Space. 
 
-We will be covering the essential components of clasical machine learning before moving onto the basics of deep learning in this course. This course requires you to be comfortable with the basics of Python as a prerequisite. Follow the tutorials below to get started!
+In this course, we cover the essentials of Classical Machine Learning or the Pre-Deep Learning era. The readers are then introduced to Deep Learning - the backbone of Artifical Intelligence today. This course requires one to be familiar with basics of Python and some background in Calculus.
 
- - **[Week 1](./Week%201/README.md)**
- - **[Week 2](./Week%202/README.md)**
- - **[Week 3](./Week%203/README.md)**
- - **[Week 4](./Week%204/README.md)**
- - **[Mid-term Assignment](./MId%20Term%20Assignment/README.md)**
- - **[Week 5](https://github.com/wncc/learners-space/blob/master/Machine%20Learning/Week%205/README.md)**
- - **[Week 6](https://github.com/wncc/learners-space/blob/master/Machine%20Learning/Week%206/README.md)**
- - **[End Term Assignment](./End%20Term%20Assignment/README.md)**
- ***
+Following is the course structure - 
+
+ * **Week 1: [Brushing up the Basics](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%201)**
+ * **Week 2: [Linear Models](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%202)**
+ * **Week 3: [Unparametrised Learning & Unsupervised Learning](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%202)**
+ * **Week 4: [Introduction to Neural Networks](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%204)**
+ * **[Mid-course Evaluation](./MId%20Term%20Assignment/README.md)**
+ * **Week 5: [Applying Neural Networks](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%205)**
+ * **Week 6: [Deep Learning Models in Practice](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%206)**
+ * **Week 7: [End Course Evaluation](./End%20Term%20Assignment/README.md)**
+ 
+---
  
 ## Week 1
  
