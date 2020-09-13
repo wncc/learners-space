@@ -4,7 +4,7 @@ Hello everyone, Welcome to the Machine learning course offered by WnCC in associ
 
 In this course, we cover the essentials of Classical Machine Learning or the Pre-Deep Learning era. The readers are then introduced to Deep Learning - the backbone of Artifical Intelligence today. This course requires one to be familiar with basics of Python and some background in Calculus.
 
-Following is the course structure - 
+Following is the weekly course structure - 
 
  * **Week 1: [Brushing up the Basics](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%201)**
  * **Week 2: [Linear Models](https://github.com/wncc/learners-space/tree/master/Machine%20Learning/Week%202)**
@@ -16,7 +16,19 @@ Following is the course structure -
  * **Week 7: [End Course Evaluation](./End%20Term%20Assignment/README.md)**
  
 ---
- 
+
+# Why This Course?
+
+You must be wondering, *"Not again! Why this course? Why should I even bother about this course when here are hundreds of other courses and tutorials available over the internet"*
+
+It is rightly said *"Googling is an art"* and believe me it is not easy to Google things. Now, one can say that what a big deal, just type out the topic on Google Search Bar and *"Woah! A million results!"*. There are tens of thousands of resources available to learn Machine Learning over the internet. But not every resource is good enough to give you insights into the concepts and help you gain intuition as to why things are working. There are even resources that give you wrong information. This is one of the challenges when you have a million results to check out.  
+
+We also had a similar experience when we were trying to learn Machine Learning. So, we thought of making this course unique and easy for the reader to follow. We don't give complete analysis of concepts or every small bit of detail, rather we link up the best resources on that topic over the internet for your reference. The references are so well written that going through them will essentially clear every bit of doubt that you might have in that topic and make your undertanding crystal clear.  
+
+So in essence, we have done the Herculean Task of Googling for you and we present you this course where we give brief description about stuff and link up best resources over the internet to bring out the master of Data Science inside you. Happy Learning! 
+
+# Structure of the Course
+
 ## Week 1
  
 We begin our journey in the world of Machine Learning by laying down the foundation stone of various associated domains of Mathematics and Coding skills. 
@@ -83,6 +95,11 @@ In this final week, we talk a lot about practical details of Neural Nets and how
 With this we come to the end of our course that was developed completely by the members of the **WnCC  Family** with great efforts and an ambition to give the reader a tour of the really amazing Machine Learning field and acquaint you with the potential of Machine Learning to revolutionise the era of technology and make this world even more exciting.
 
 ---
+
+# Some Really Useful Resources
+
+* **[Towards Data Science](https://towardsdatascience.com/):** Probably, one of the most frequently used website by Data Scientists in general. It contains millions of articles written by a multitude of personalities ranging from students like you, to professional Data Scientists. 
+* **[Stanford CS 229](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) :** This course by the AI Guru Andrew Ng at Stanford is great for advanced content in Machine Learning. It contains a lot of rigour behind stuff and is a one stop course for Mathematics behind Machine Learning.
  
 <p align="center">Created with :heart: by <a href="https://www.wncc-iitb.org/">WnCC</a></p>
 
