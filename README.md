@@ -1,7 +1,5 @@
 # Learners' Space 
 
-## Technical Summer School by Institute Technical Council, IIT Bombay
-
 Greetings from the Web & Coding Club!
 
 WnCC proudly presents the following courses under Technical Summer School - 
